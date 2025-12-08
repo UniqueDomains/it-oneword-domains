@@ -34,15 +34,15 @@ If you want to search & filters the complete database of [.IT one word domains](
 | abel.it         | resell  | 50       | 92%    | 4      |           | 11/01/2025 09:00 | 11/01/2026 00:00 |
 | Aber.it         | resell  | 50       | 84%    | 4      |           | 14/08/2017 09:00 | 30/08/2025 00:00 |
 | Abhi.it         | resell  | 50       | 84%    | 4      |           | 10/08/2016 16:00 | 06/09/2025 00:00 |
-| abide.it        | resell  | 94       | 76%    | 5      |           | 13/10/2009 12:56 | 20/10/2025 00:00 |
+| abide.it        | resell  | 94       | 15%    | 5      |           | 13/10/2009 12:56 | 20/10/2026 00:00 |
 | Abie.it         | resell  | 50       | 80%    | 4      |           | 11/03/2022 09:00 | 10/04/2026 00:00 |
 | abigail.it      | resell  | 54       | 76%    | 7      |           | 15/01/2011 18:09 | 30/01/2026 00:00 |
 | Abigale.it      | resell  | 50       | 72%    | 7      |           | 11/05/2010 15:37 | 01/06/2026 00:00 |
 | abilities.it    | resell  | 70       | 48%    | 9      |           | 13/12/2014 22:28 | 17/12/2025 00:00 |
-| abit.it         | resell  | 66       | 16%    | 5      |           | 16/06/2020 09:00 | 02/07/2026 00:00 |
+| abit.it         | resell  | 66       | 12%    | 5      |           | 16/06/2020 09:00 | 02/07/2026 00:00 |
 | ablaze.it       | resell  | 72       | 6%     | 6      |           | 23/06/2012 13:59 | 14/07/2026 00:00 |
 | abled.it        | resell  | 78       | 76%    | 5      |           | 22/03/2014 16:00 | 12/04/2026 00:00 |
-| aboard.it       | resell  | 68       | 8%     | 6      |           | 16/01/2011 23:36 | 31/01/2026 00:00 |
+| aboard.it       | resell  | 68       | 6%     | 6      |           | 16/01/2011 23:36 | 31/01/2026 00:00 |
 | abolishing.it   | resell  | 38       | 68%    | 10     |           | 07/04/2012 11:52 | 24/04/2026 00:00 |
 | aboriginal.it   | resell  | 86       | 8%     | 10     |           | 15/12/2012 14:43 | 16/12/2025 00:00 |
 | aborigine.it    | resell  | 62       | 2%     | 9      |           | 23/09/2011 19:31 | 04/10/2025 00:00 |
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.IT one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

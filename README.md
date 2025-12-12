@@ -46,11 +46,11 @@ If you want to search & filters the complete database of [.IT one word domains](
 | abolishing.it   | resell  | 38       | 68%    | 10     |           | 07/04/2012 11:52 | 24/04/2026 00:00 |
 | aboriginal.it   | resell  | 86       | 8%     | 10     |           | 15/12/2012 14:43 | 16/12/2025 00:00 |
 | aborigine.it    | resell  | 62       | 2%     | 9      |           | 23/09/2011 19:31 | 04/10/2025 00:00 |
-| abouttime.it    | resell  | 60       | 72%    | 10     |           | 10/10/2020 16:00 | 10/10/2025 00:00 |
-| abovethefold.it | resell  | 44       | 76%    | 14     |           | 07/03/2019 16:00 | 07/04/2026 00:00 |
-| abovetheline.it | resell  | 54       | 76%    | 14     |           | 19/12/2021 16:00 | 19/12/2025 00:00 |
+| abouttime.it    | resell  | 60       | 7%     | 10     |           | 10/10/2020 16:00 | 10/10/2026 00:00 |
+| abovethefold.it | resell  | 44       | 7%     | 14     |           | 07/03/2019 16:00 | 07/04/2026 00:00 |
 | abrasive.it     | resell  | 76       | 6%     | 8      |           | 15/02/2010 14:29 | 14/02/2026 00:00 |
 | abroad.it       | resell  | 92       | 10%    | 6      |           | 19/09/2011 19:26 | 04/10/2026 00:00 |
+| absolution.it   | resell  | 62       | 88%    | 10     |           | 24/02/2012 19:14 | 12/03/2026 00:00 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/it-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -89,7 +89,7 @@ If you want to search & filters the complete database of [.IT one word domains](
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 29,681       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 59,909       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| Expiring | 61,144       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
 | All      | 4,569,375    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 

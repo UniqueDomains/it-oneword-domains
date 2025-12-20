@@ -39,14 +39,14 @@ If you want to search & filters the complete database of [.IT one word domains](
 | abigail.it      | resell  | 54       | 76%    | 7      |           | 15/01/2011 18:09 | 30/01/2026 00:00 |
 | Abigale.it      | resell  | 50       | 72%    | 7      |           | 11/05/2010 15:37 | 01/06/2026 00:00 |
 | abilities.it    | resell  | 70       | 48%    | 9      |           | 13/12/2014 22:28 | 17/12/2025 00:00 |
-| abit.it         | resell  | 66       | 12%    | 5      |           | 16/06/2020 09:00 | 02/07/2026 00:00 |
+| abit.it         | resell  | 68       | 12%    | 5      |           | 16/06/2020 09:00 | 02/07/2026 00:00 |
 | ablaze.it       | resell  | 72       | 6%     | 6      |           | 23/06/2012 13:59 | 14/07/2026 00:00 |
 | abled.it        | resell  | 78       | 76%    | 5      |           | 22/03/2014 16:00 | 12/04/2026 00:00 |
 | aboard.it       | resell  | 68       | 6%     | 6      |           | 16/01/2011 23:36 | 31/01/2026 00:00 |
 | abolishing.it   | resell  | 38       | 68%    | 10     |           | 07/04/2012 11:52 | 24/04/2026 00:00 |
 | aboriginal.it   | resell  | 86       | 8%     | 10     |           | 15/12/2012 14:43 | 16/12/2025 00:00 |
 | aborigine.it    | resell  | 62       | 2%     | 9      |           | 23/09/2011 19:31 | 04/10/2025 00:00 |
-| abouttime.it    | resell  | 60       | 7%     | 10     |           | 10/10/2020 16:00 | 10/10/2026 00:00 |
+| abouttime.it    | resell  | 60       | 6%     | 10     |           | 10/10/2020 16:00 | 10/10/2026 00:00 |
 | abovethefold.it | resell  | 44       | 7%     | 14     |           | 07/03/2019 16:00 | 07/04/2026 00:00 |
 | abrasive.it     | resell  | 76       | 6%     | 8      |           | 15/02/2010 14:29 | 14/02/2026 00:00 |
 | abroad.it       | resell  | 92       | 9%     | 6      |           | 19/09/2011 19:26 | 04/10/2026 00:00 |
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.IT one word domains](
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

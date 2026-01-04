@@ -23,7 +23,7 @@ If you want to search & filters the complete database of [.IT one word domains](
 | --------------- | ------- | -------- | ------ | ------ | --------- | ---------------- | ---------------- |
 | AAD.it          | resell  | 82       | 80%    | 3      |           | 08/09/2010 07:33 | 08/10/2025 00:00 |
 | aak.it          | resell  | 68       | 32%    | 3      |           | 17/04/2022 09:00 | 09/04/2026 00:00 |
-| abandoned.it    | resell  | 58       | 7%     | 9      |           | 21/05/2010 22:20 | 08/06/2026 00:00 |
+| abandoned.it    | resell  | 58       | 7%     | 9      |           | 21/05/2010 22:20 | 08/06/2026 08:00 |
 | abaxially.it    | premium | 44       | 72%    | 9      |           |                  |                  |
 | abbreviate.it   | resell  | 92       | 76%    | 10     |           | 28/03/2012 16:03 | 12/04/2026 00:00 |
 | abbreviated.it  | resell  | 56       | 76%    | 11     |           | 26/09/2010 11:31 | 11/10/2025 00:00 |
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.IT one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,896       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 64,845       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,711    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,598,419    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

@@ -1,10 +1,10 @@
-# Available .IT One-Word Domains (14,091)
+# Available .IT One-Word Domains (14,082)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C091%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C082%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .it one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,091 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **14,082 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 14,091 domains
+**Public extract:** 10,000 rows · **Live catalog:** 14,082 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/it`  
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | spontaneous.it | available | $25.99    | —             | 76             | 13     | 11     | name.com  |
 | access.it      | resell    | $7,366.90 | $25.99        | 98             | 46     | 6      | name.com  |
 | cheesy.it      | premium   | $25.99    | $25.99        | 60             | 10     | 6      | name.com  |
-| unfair.it      | available | $25.99    | —             | 64             | 13     | 6      | name.com  |
+| dauntless.it   | available | $25.99    | —             | 70             | 13     | 9      | name.com  |
 | cheese.it      | resell    | $1,077.55 | $25.99        | 116            | 28     | 6      | name.com  |
 | compelling.it  | premium   | $25.99    | $25.99        | 92             | 9      | 10     | name.com  |
-| courageous.it  | available | $25.99    | —             | 76             | 12     | 10     | name.com  |
+| unfair.it      | available | $25.99    | —             | 64             | 13     | 6      | name.com  |
 | amok.it        | resell    | $2,018.25 | $25.99        | 81             | 11     | 4      | name.com  |
 | pervert.it     | premium   | $25.99    | $25.99        | 80             | 8      | 7      | name.com  |
-| dauntless.it   | available | $25.99    | —             | 70             | 12     | 9      | name.com  |
+| journeyman.it  | available | $25.99    | —             | 68             | 12     | 10     | name.com  |
 | wondrous.it    | resell    | $25.99    | —             | 74             | 10     | 8      | name.com  |
 | abiding.it     | premium   | $25.99    | $25.99        | 106            | 7      | 7      | name.com  |
-| journeyman.it  | available | $25.99    | —             | 68             | 12     | 10     | name.com  |
+| courageous.it  | available | $25.99    | —             | 76             | 11     | 10     | name.com  |
 | definitely.it  | resell    | $25.99    | —             | 70             | 10     | 10     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract           | Unique Domains                                   |
 | ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 14,091 live domains                              |
+| 10,000-row public sample | 14,082 live domains                              |
 | Static CSV / JSON        | live search and daily refresh                    |
 | Basic exported fields    | deeper price, demand, risk, and workflow context |
 | No persistence           | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

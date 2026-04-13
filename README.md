@@ -75,7 +75,7 @@ print(df.head())
 | cheesy.it      | premium   | $25.99    | $25.99        | 60             | 10     | 6      | name.com  |
 | dauntless.it   | available | $25.99    | —             | 70             | 13     | 9      | name.com  |
 | cheese.it      | resell    | $1,077.55 | $25.99        | 116            | 28     | 6      | name.com  |
-| compelling.it  | premium   | $25.99    | $25.99        | 92             | 9      | 10     | name.com  |
+| compelling.it  | premium   | $25.99    | $25.99        | 92             | 8      | 10     | name.com  |
 | unfair.it      | available | $25.99    | —             | 64             | 13     | 6      | name.com  |
 | amok.it        | resell    | $2,018.25 | $25.99        | 81             | 11     | 4      | name.com  |
 | pervert.it     | premium   | $25.99    | $25.99        | 80             | 8      | 7      | name.com  |

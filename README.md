@@ -1,22 +1,22 @@
-# Available .IT One-Word Domains (14,082)
+# Available .IT One-Word Domains (16,120)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C082%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C120%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .it one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,082 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **16,120 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 14,082 domains
+**Public extract:** 1,000 rows · **Live catalog:** 16,120 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/it`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .IT one-word domain ca
 
 ### Files
 
-- `it.csv` — public CSV extract (10,000 rows)
-- `it.json` — public JSON extract (10,000 rows)
+- `it.csv` — public CSV extract (1,000 rows)
+- `it.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| cameroon.it    | available | $25.99    | —             | 75             | 97     | 8      | name.com  |
-| repair.it      | resell    | $7,370.35 | $7,370.35     | 84             | 80     | 6      | name.com  |
-| snap.it        | premium   | $13,694   | —             | 80             | 46     | 4      | name.com  |
-| awful.it       | available | $25.99    | —             | 68             | 15     | 5      | name.com  |
-| amusement.it   | resell    | $3,345.35 | $25.99        | 70             | 72     | 9      | name.com  |
-| democratic.it  | premium   | $25.99    | $25.99        | 66             | 11     | 10     | name.com  |
-| spontaneous.it | available | $25.99    | —             | 76             | 13     | 11     | name.com  |
-| access.it      | resell    | $7,366.90 | $25.99        | 98             | 46     | 6      | name.com  |
-| cheesy.it      | premium   | $25.99    | $25.99        | 60             | 10     | 6      | name.com  |
-| dauntless.it   | available | $25.99    | —             | 70             | 13     | 9      | name.com  |
-| cheese.it      | resell    | $1,077.55 | $25.99        | 116            | 28     | 6      | name.com  |
-| compelling.it  | premium   | $25.99    | $25.99        | 92             | 8      | 10     | name.com  |
-| unfair.it      | available | $25.99    | —             | 64             | 13     | 6      | name.com  |
-| amok.it        | resell    | $2,018.25 | $25.99        | 81             | 11     | 4      | name.com  |
-| pervert.it     | premium   | $25.99    | $25.99        | 80             | 8      | 7      | name.com  |
-| journeyman.it  | available | $25.99    | —             | 68             | 12     | 10     | name.com  |
-| wondrous.it    | resell    | $25.99    | —             | 74             | 10     | 8      | name.com  |
-| abiding.it     | premium   | $25.99    | $25.99        | 106            | 7      | 7      | name.com  |
-| courageous.it  | available | $25.99    | —             | 76             | 11     | 10     | name.com  |
-| definitely.it  | resell    | $25.99    | —             | 70             | 10     | 10     | name.com  |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| oldage.it           | available | $25.99    | —             | 71             | 20     | 7      | name.com  |
+| Tools.it            | resell    | —         | —             | 56             | 40     | 5      | —         |
+| Places.it           | premium   | —         | —             | 74             | 22     | 6      | —         |
+| whereby.it          | available | $25.99    | —             | 52             | 20     | 7      | name.com  |
+| invoice.it          | resell    | —         | —             | 72             | 33     | 8      | —         |
+| Ipop.it             | premium   | —         | —             | 76             | 9      | 5      | —         |
+| childpornography.it | available | $25.99    | —             | 48             | 17     | 17     | name.com  |
+| sucks.it            | resell    | —         | —             | 48             | 11     | 5      | —         |
+| Obamacare.it        | premium   | —         | —             | 66             | 8      | 10     | —         |
+| shall.it            | available | $25.99    | —             | 76             | 16     | 5      | name.com  |
+| promised.it         | resell    | —         | —             | 76             | 6      | 8      | —         |
+| Iship.it            | premium   | —         | —             | 76             | 6      | 6      | —         |
+| whatthe.it          | available | $25.99    | —             | 58             | 16     | 8      | name.com  |
+| pours.it            | resell    | —         | —             | 46             | 5      | 5      | —         |
+| MerryXmas.it        | premium   | —         | —             | 70             | 4      | 10     | —         |
+| givethanks.it       | available | $25.99    | —             | 58             | 16     | 11     | name.com  |
+| sucked.it           | resell    | —         | —             | 54             | 4      | 6      | —         |
+| GreatBarrierReef.it | premium   | —         | —             | 64             | 4      | 18     | —         |
+| onethird.it         | available | $25.99    | —             | 44             | 16     | 9      | name.com  |
+| owing.it            | resell    | —         | —             | 60             | 3      | 5      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 14,082 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 16,120 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IT One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

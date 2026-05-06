@@ -296,6 +296,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2027e387-7907-4cc2-b582-b0997fa73dcb,whitevanman.it,available,25.99,,56,1,13,name.com,,
 203b6e3d-32af-4277-a241-17ab58c96136,turnorburn.it,available,25.99,,56,1,12,name.com,,
 203c7cff-20c4-45ca-bab6-05f1d61e110e,oneyearold.it,available,25.99,,78,1,12,name.com,,
+203ce6ee-bdb0-4610-b0b6-e44fd538eaf3,share.it,premium,41575.95,,74,49,5,name.com,21/03/2002 00:00,12/02/2027 00:00
 2056f06d-aca5-40c0-a3cf-687bdd6d1f65,haveonemoretime.it,available,25.99,,58,0,18,name.com,,
 20857670-9a71-44f4-bd9b-0b903d9d0311,childofthekitchen.it,available,25.99,,60,6,20,name.com,,
 209d5ab9-dfa7-4725-9731-31fdebcc5ed2,farmstand.it,available,25.99,,74,6,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 663ae8f3-219f-4d62-8b0f-814bf00b0ccf,makegoodon.it,available,25.99,,78,4,12,name.com,,
 667b608f-3dd6-45de-ba8b-75492714dcfc,grandnieces.it,available,25.99,,66,1,11,name.com,,
 667ec767-f436-4e1a-b4b2-308dc50c4615,howso.it,available,25.99,,58,6,6,name.com,,
-669bcc0e-9589-4420-b635-e33ca2890e8a,differed.it,available,25.99,,48,2,8,name.com,,

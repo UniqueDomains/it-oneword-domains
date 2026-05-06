@@ -1,10 +1,10 @@
-# Available .IT One-Word Domains (16,307)
+# Available .IT One-Word Domains (16,286)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C307%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C286%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .it one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **16,307 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **16,286 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 16,307 domains
+**Public extract:** 1,000 rows · **Live catalog:** 16,286 domains · **Median ask:** $59.45 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/it`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| oldage.it           | available | $25.99    | —             | 71             | 20     | 7      | name.com  |
-| Tools.it            | resell    | —         | —             | 56             | 40     | 5      | —         |
-| Places.it           | premium   | —         | —             | 74             | 22     | 6      | —         |
-| whereby.it          | available | $25.99    | —             | 52             | 20     | 7      | name.com  |
-| invoice.it          | resell    | —         | —             | 72             | 33     | 8      | —         |
-| Ipop.it             | premium   | —         | —             | 76             | 9      | 5      | —         |
-| childpornography.it | available | $25.99    | —             | 48             | 17     | 17     | name.com  |
-| sucks.it            | resell    | —         | —             | 48             | 11     | 5      | —         |
-| Obamacare.it        | premium   | —         | —             | 66             | 8      | 10     | —         |
-| whatthe.it          | available | $25.99    | —             | 58             | 16     | 8      | name.com  |
-| bandits.it          | resell    | —         | —             | 40             | 10     | 7      | —         |
-| Iship.it            | premium   | —         | —             | 76             | 6      | 6      | —         |
-| givethanks.it       | available | $25.99    | —             | 58             | 16     | 11     | name.com  |
-| promised.it         | resell    | —         | —             | 76             | 6      | 8      | —         |
-| MerryXmas.it        | premium   | —         | —             | 70             | 4      | 10     | —         |
-| onethird.it         | available | $25.99    | —             | 44             | 16     | 9      | name.com  |
-| sucked.it           | resell    | —         | —             | 54             | 4      | 6      | —         |
-| GreatBarrierReef.it | premium   | —         | —             | 64             | 4      | 18     | —         |
-| getthebetterof.it   | available | $25.99    | —             | 69             | 15     | 17     | name.com  |
-| cornering.it        | resell    | —         | —             | 64             | 1      | 9      | —         |
+| domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar |
+| ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------- |
+| speakto.it          | available | $25.99     | —             | 80             | 5      | 8      | name.com  |
+| chaitea.it          | available | $25.99     | —             | 86             | 3      | 8      | name.com  |
+| dogstail.it         | available | $25.99     | —             | 94             | 1      | 8      | name.com  |
+| bedframe.it         | available | $25.99     | —             | 80             | 3      | 9      | name.com  |
+| flaxseed.it         | available | $25.99     | —             | 80             | 4      | 9      | name.com  |
+| playfield.it        | available | $25.99     | —             | 80             | 7      | 9      | name.com  |
+| takepart.it         | available | $25.99     | —             | 80             | 5      | 9      | name.com  |
+| jetblack.it         | available | $25.99     | —             | 82             | 8      | 9      | name.com  |
+| makegood.it         | available | $25.99     | —             | 86             | 14     | 9      | name.com  |
+| cuddleup.it         | available | $25.99     | —             | 89             | 4      | 9      | name.com  |
+| partyhat.it         | available | $25.99     | —             | 89             | 7      | 9      | name.com  |
+| oldage.it           | available | $25.99     | —             | 71             | 20     | 7      | name.com  |
+| Tools.it            | resell    | —          | —             | 56             | 40     | 5      | —         |
+| share.it            | premium   | $41,575.95 | —             | 74             | 49     | 5      | name.com  |
+| whereby.it          | available | $25.99     | —             | 52             | 20     | 7      | name.com  |
+| invoice.it          | resell    | —          | —             | 72             | 33     | 8      | —         |
+| Places.it           | premium   | —          | —             | 74             | 22     | 6      | —         |
+| childpornography.it | available | $25.99     | —             | 48             | 17     | 17     | name.com  |
+| sucks.it            | resell    | —          | —             | 48             | 11     | 5      | —         |
+| Ipop.it             | premium   | —          | —             | 76             | 9      | 5      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 16,307 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 16,286 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely focused on .it domain names. The mix includes short call-to-action phrases, product terms, and simple two-part combinations such as useit.it, speakto.it, gelpen.it, and carcoat.it. For founders, the main question is whether the wording is memorable, easy to say, and ownable without confusion. For investors, the key test is whether the ask leaves room for resale after renewal and transfer costs. The median ask is 59.45, so many names sit in an accessible price range, but low price alone is not quality. Check spelling, plural forms, awkward wording, and obvious trademark exposure before choosing.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- The full selection is limited to .it domain names
+- Median ask across this set is 59.45
+- Includes short phrases, product words, and paired terms
+- Check spelling quirks like kangeroo.it before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IT One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IT One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

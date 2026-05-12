@@ -74,7 +74,7 @@ print(df.head())
 | jetblack.it         | available | $25.99     | —             | 82             | 8      | 9      | name.com  |
 | makegood.it         | available | $25.99     | —             | 86             | 14     | 9      | name.com  |
 | cuddleup.it         | available | $25.99     | —             | 89             | 4      | 9      | name.com  |
-| partyhat.it         | available | $25.99     | —             | 89             | 7      | 9      | name.com  |
+| partyhat.it         | available | $25.99     | —             | 89             | 5      | 9      | name.com  |
 | oldage.it           | available | $25.99     | —             | 71             | 20     | 7      | name.com  |
 | Tools.it            | resell    | —          | —             | 56             | 40     | 5      | —         |
 | share.it            | premium   | $41,575.95 | —             | 74             | 49     | 5      | name.com  |

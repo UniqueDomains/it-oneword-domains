@@ -65,7 +65,7 @@ print(df.head())
 | domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar |
 | ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------- |
 | Maidens.it          | available | $25.99     | —             | 80             | 4      | 7      | name.com  |
-| speakto.it          | available | $25.99     | —             | 80             | 5      | 8      | name.com  |
+| speakto.it          | available | $25.99     | —             | 80             | 6      | 8      | name.com  |
 | WWWpage.it          | available | $25.99     | —             | 80             | 1      | 8      | name.com  |
 | chaitea.it          | available | $25.99     | —             | 86             | 3      | 8      | name.com  |
 | dogstail.it         | available | $25.99     | —             | 94             | 1      | 8      | name.com  |
@@ -73,17 +73,17 @@ print(df.head())
 | flaxseed.it         | available | $25.99     | —             | 80             | 4      | 9      | name.com  |
 | playfield.it        | available | $25.99     | —             | 80             | 7      | 9      | name.com  |
 | takepart.it         | available | $25.99     | —             | 80             | 5      | 9      | name.com  |
-| jetblack.it         | available | $25.99     | —             | 82             | 8      | 9      | name.com  |
 | makegood.it         | available | $25.99     | —             | 86             | 14     | 9      | name.com  |
-| oldage.it           | available | $25.99     | —             | 71             | 20     | 7      | name.com  |
+| FrenchRepublic.it   | available | $25.99     | —             | 58             | 57     | 15     | name.com  |
 | Tools.it            | resell    | —          | —             | 56             | 40     | 5      | —         |
 | share.it            | premium   | $41,575.95 | —             | 74             | 49     | 5      | name.com  |
-| whereby.it          | available | $25.99     | —             | 52             | 20     | 7      | name.com  |
+| oldage.it           | available | $25.99     | —             | 71             | 20     | 7      | name.com  |
 | invoice.it          | resell    | —          | —             | 72             | 33     | 8      | —         |
 | Places.it           | premium   | —          | —             | 74             | 22     | 6      | —         |
-| childpornography.it | available | $25.99     | —             | 48             | 17     | 17     | name.com  |
+| whereby.it          | available | $25.99     | —             | 52             | 20     | 7      | name.com  |
 | sucks.it            | resell    | —          | —             | 48             | 11     | 5      | —         |
 | Ipop.it             | premium   | —          | —             | 76             | 9      | 5      | —         |
+| childpornography.it | available | $25.99     | —             | 48             | 17     | 17     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

@@ -1,10 +1,10 @@
-# Available .IT One-Word Domains (16,475)
+# Available .IT One-Word Domains (17,227)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C475%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C227%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .it one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **16,475 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **17,227 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 16,475 domains · **Median ask:** $56.82 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 17,227 domains · **Median ask:** $49.61 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/it`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/it`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .IT one-word domain ca
 
 ### Files
 
-- `it.csv` — public CSV extract (1,000 rows)
-- `it.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `it.csv`, public CSV extract (1,000 rows)
+- `it.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------- |
-| Maidens.it        | available | $25.99     | —             | 80             | 4      | 7      | name.com  |
-| speakto.it        | available | $25.99     | —             | 80             | 6      | 8      | name.com  |
-| WWWpage.it        | available | $25.99     | —             | 80             | 1      | 8      | name.com  |
-| chaitea.it        | available | $25.99     | —             | 86             | 3      | 8      | name.com  |
-| dogstail.it       | available | $25.99     | —             | 94             | 1      | 8      | name.com  |
-| bedframe.it       | available | $25.99     | —             | 80             | 3      | 9      | name.com  |
-| flaxseed.it       | available | $25.99     | —             | 80             | 4      | 9      | name.com  |
-| playfield.it      | available | $25.99     | —             | 80             | 7      | 9      | name.com  |
-| takepart.it       | available | $25.99     | —             | 80             | 5      | 9      | name.com  |
-| makegood.it       | available | $25.99     | —             | 86             | 10     | 9      | name.com  |
-| FrenchRepublic.it | available | $25.99     | —             | 58             | 57     | 15     | name.com  |
-| Tools.it          | resell    | —          | —             | 56             | 40     | 5      | —         |
-| share.it          | premium   | $41,575.95 | —             | 74             | 49     | 5      | name.com  |
-| getthebetterof.it | available | $25.99     | —             | 69             | 15     | 17     | name.com  |
-| sucks.it          | resell    | —          | —             | 48             | 11     | 5      | —         |
-| Places.it         | premium   | —          | —             | 74             | 22     | 6      | —         |
-| yougotthis.it     | available | $25.99     | —             | 58             | 15     | 12     | name.com  |
-| bandits.it        | resell    | —          | —             | 40             | 10     | 7      | —         |
-| Obamacare.it      | premium   | —          | —             | 66             | 7      | 10     | —         |
-| whereby.it        | available | $25.99     | —             | 52             | 15     | 7      | name.com  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| lvii.it     | available | $25.99    | $25.99        | low            | low    | 4      | name.com  |
+| access.it   | resell    | $7,366.90 | $25.99        | high           | medium | 6      | name.com  |
+| affable.it  | premium   | $25.99    | $25.99        | high           | low    | 7      | name.com  |
+| midday.it   | available | $25.99    | —             | high           | low    | 6      | name.com  |
+| repair.it   | resell    | $7,370.35 | $7,370.35     | high           | high   | 6      | name.com  |
+| awfully.it  | premium   | $25.99    | —             | medium         | low    | 7      | name.com  |
+| pentad.it   | available | $25.99    | $25.99        | low            | low    | 6      | name.com  |
+| BOJ.it      | resell    | —         | —             | medium         | high   | 3      | —         |
+| blueish.it  | premium   | $25.99    | —             | high           | low    | 7      | name.com  |
+| splints.it  | available | $25.99    | —             | low            | low    | 7      | name.com  |
+| dye.it      | resell    | —         | —             | medium         | low    | 3      | —         |
+| cunning.it  | premium   | $25.99    | —             | medium         | low    | 7      | name.com  |
+| disposed.it | available | $25.99    | —             | medium         | low    | 8      | name.com  |
+| EIN.it      | resell    | —         | —             | medium         | high   | 3      | —         |
+| inthis.it   | premium   | $25.99    | —             | medium         | low    | 7      | name.com  |
+| entirety.it | available | $25.99    | —             | high           | low    | 8      | name.com  |
+| HTH.it      | resell    | —         | —             | low            | medium | 3      | —         |
+| shouted.it  | premium   | $25.99    | —             | medium         | low    | 7      | name.com  |
+| evacuate.it | available | $25.99    | —             | medium         | low    | 8      | name.com  |
+| hug.it      | resell    | —         | —             | high           | low    | 3      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 16,475 live domains                        |
+| 1,000-row public sample | 17,227 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on .it domain names. The mix includes short call-to-action phrases, product terms, and simple two-part combinations such as useit.it, speakto.it, gelpen.it, and carcoat.it. For founders, the main question is whether the wording is memorable, easy to say, and ownable without confusion. For investors, the key test is whether the ask leaves room for resale after renewal and transfer costs. The median ask is 59.45, so many names sit in an accessible price range, but low price alone is not quality. Check spelling, plural forms, awkward wording, and obvious trademark exposure before choosing.
+This list of one-word .IT domain names covers 17,227 entries, mixing available registrations and resale listings priced by current holders. The median ask sits at $49.61, with the majority of names falling under $500. Demand signals split roughly evenly between low and high tiers, and most names trend modern in tone—useful context when comparing options for a brand or a portfolio.
 
-- The full selection is limited to .it domain names
-- Median ask across this set is 59.45
-- Includes short phrases, product words, and paired terms
-- Check spelling quirks like kangeroo.it before buying
+- 17,227 one-word .IT domains, median ask $49.61
+- 4,121 available now; 13,090 resale listings
+- 10,902 names rated easy to spell for branding
+- Modern-style tone dominates at 12,541 domains
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IT One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

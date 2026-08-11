@@ -65,7 +65,6 @@ d8dc5513-e6c7-40e5-8ee2-7f817f977381,weavers.it,resell,,,medium,medium,7,,14/10/
 63724297-8777-4ac9-90cd-a3b303aa6dd5,eater.it,resell,,,high,low,5,,08/02/2010 15:05,13/02/2026 00:00
 630ee40d-5b83-47fe-a9e4-8c305a4db59e,forced.it,resell,,,medium,low,6,,21/06/2012 21:22,06/07/2026 00:00
 6cf81f92-ce9f-45e3-92e1-3aaab4721b37,marry.it,resell,,,high,high,5,,27/03/2022 16:00,11/04/2026 00:00
-30d7ccee-c295-47d5-92b2-ff3c17f56a98,brushed.it,resell,,,medium,high,7,,03/07/2019 16:00,17/08/2025 00:00
 7f93a6c4-2309-40a5-9724-95aa99f2c571,ramadan.it,resell,,,medium,high,7,,23/11/2011 18:48,08/12/2025 00:00
 e859cfa9-a1a6-4230-a240-e8848653305e,sombrero.it,resell,,,medium,high,8,,12/01/2019 16:00,12/01/2026 00:00
 c2f19fe8-1fa8-4860-8508-5dbe28b00368,critter.it,resell,,,high,high,7,,04/05/2014 16:00,22/05/2026 00:00
@@ -91,6 +90,7 @@ e6dfde57-e810-47bb-b82a-ba478b98db86,approached.it,resell,,,medium,low,10,,14/05
 4b83abe5-c803-4145-b8c5-1eae692c2637,domes.it,resell,,,medium,medium,5,,11/08/2010 02:19,04/09/2025 00:00
 f359e54d-8347-4b3c-8755-237470fbbe68,goldcoin.it,resell,,,medium,high,9,,19/01/2022 16:00,04/02/2026 00:00
 73876930-3d87-406d-aee3-f404266e8828,declared.it,resell,,,medium,high,8,,28/10/2010 22:29,12/11/2025 00:00
+eca1705a-efc9-4846-999c-253b4639d903,laborious.it,available,25.99,25.99,low,low,9,name.com,,
 1645f6cf-2cce-41b5-a7b6-4f0d5d890a8a,fearful.it,resell,,,high,low,7,,09/06/2011 22:06,21/06/2026 00:00
 8dfd4c32-7668-49f4-81de-43564c662708,tanningbed.it,resell,,,medium,high,11,,26/10/2009 09:46,28/11/2025 00:00
 baa8ad2a-5e23-4d80-b8e7-18af94916ee0,savory.it,resell,,,medium,high,6,,07/06/2017 16:00,08/06/2026 00:00
@@ -531,7 +531,7 @@ c5080ae6-0a2d-4298-ad5b-a3ceefb101ac,upwards.it,premium,25.99,,medium,low,7,name
 652e3ec5-c091-438f-af36-8191d373d441,induced.it,resell,,,medium,medium,7,,03/01/2011 20:35,03/01/2026 00:00
 d22e4b97-10ec-41bf-b5fe-37b3a9bf4f09,chemists.it,resell,,,medium,low,8,,08/02/2010 15:24,14/02/2026 00:00
 5e372dfe-3343-483f-ba19-96676c6975bd,legs.it,resell,,,high,low,4,,26/09/2013 09:00,09/10/2026 00:00
-a2705adf-bf37-41a6-bd08-bb37ea6d8e75,asiatic.it,resell,,,medium,low,7,,07/02/2022 09:00,07/02/2026 00:00
+a2705adf-bf37-41a6-bd08-bb37ea6d8e75,asiatic.it,resell,,,low,low,7,,07/02/2022 09:00,07/02/2027 00:00
 2a25be05-37bd-4130-9ebd-5a096506502a,spins.it,resell,,,medium,low,5,,26/10/2013 09:00,12/11/2025 00:00
 a04b4df1-c2b3-4ff5-918d-b01eb79d6c44,auctioning.it,resell,,,low,low,10,,12/04/2013 13:15,18/04/2026 00:00
 ca1b7d91-d93d-40ef-a44b-ee2f3e16f5a1,masseur.it,resell,,,medium,high,7,,12/04/2012 17:18,28/04/2026 00:00
@@ -630,7 +630,7 @@ af280112-8beb-4125-a240-068d597c0f29,billet.it,resell,,,high,high,6,,10/12/2013 
 6742bdc5-385f-46e9-b7cc-697002bdee92,towering.it,resell,,,high,medium,8,,02/03/2022 09:00,02/03/2026 00:00
 f1c657fe-2f6f-40dc-842d-a9ab2f4b5d80,shoots.it,resell,,,high,high,6,,31/01/2015 09:00,15/02/2026 00:00
 17713dc8-21b2-4ea0-a51d-97c703672384,abundance.it,resell,,,high,high,9,,29/08/2010 13:56,30/09/2025 00:00
-9e3ed8e2-ab31-4f14-b0bc-f815acb999c2,awlshaped.it,available,,,medium,low,10,,,
+9e3ed8e2-ab31-4f14-b0bc-f815acb999c2,awlshaped.it,available,25.99,25.99,low,low,10,name.com,,
 d99a4edb-daaa-4335-a262-1d4da0cd3c6a,scratchy.it,resell,,,medium,low,8,,23/04/2020 16:00,08/05/2026 00:00
 9cb7d77f-7e3e-4bed-8485-58e4a473ca78,everytime.it,resell,,,medium,high,10,,15/06/2024 16:00,15/06/2026 00:00
 3e594d5a-36c9-41a4-9b32-435f89572c7c,homelandsecurity.it,resell,,,medium,high,17,,18/09/2013 09:00,03/10/2025 00:00
@@ -645,7 +645,7 @@ d96cedf3-1c89-4984-971b-42a33d1859ba,rotator.it,resell,,,medium,high,7,,12/04/20
 e58366cd-9a84-4294-9e79-31d4bc3b6df7,jellyfish.it,resell,,,medium,high,9,,19/03/2019 09:00,04/04/2026 00:00
 db77f977-ec9e-42b9-a927-d3bb0175b738,whitener.it,resell,,,medium,high,8,,08/02/2010 15:08,13/02/2026 00:00
 585c8022-eae8-4c1b-ae07-28f56d112e3b,monkeys.it,resell,,,medium,medium,7,,02/11/2009 16:41,22/11/2025 00:00
-3c350754-3123-4582-ae42-4521685ecfd4,bilinear.it,available,,,high,high,8,,,
+3c350754-3123-4582-ae42-4521685ecfd4,bilinear.it,available,25.99,25.99,low,low,8,name.com,,
 c0c56a77-5df0-4311-b628-10b790bf51ed,outgrown.it,resell,,,medium,high,8,,04/12/2012 18:34,06/12/2025 00:00
 d24b88f6-d5cb-4fad-a89f-9d10d3af31a3,patriot.it,resell,,,high,high,7,,25/11/2011 21:17,25/11/2025 00:00
 b40c3eea-869e-4c02-a4f5-6e44aa3c6617,jumpingjack.it,resell,,,medium,high,12,,20/04/2013 18:25,08/05/2026 00:00

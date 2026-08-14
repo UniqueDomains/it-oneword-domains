@@ -1,10 +1,10 @@
-# Available .IT One-Word Domains (19,300)
+# Available .IT One-Word Domains (19,440)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C300%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C440%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .it one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,300 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,440 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,300 domains · **Median ask:** $41.65 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 19,440 domains · **Median ask:** $41.30 · **High-demand under $2,500:** 6
 
 **Last updated:** 2026-08-14
 **Canonical page:** `https://unique.domains/domains/tld/it`
@@ -67,22 +67,22 @@ print(df.head())
 | lvii.it     | available | $25.99    | $25.99        | low            | low    | 4      | name.com  |
 | access.it   | resell    | $7,366.90 | $25.99        | high           | medium | 6      | name.com  |
 | affable.it  | premium   | $25.99    | $25.99        | high           | low    | 7      | name.com  |
-| midday.it   | available | $25.99    | —             | high           | low    | 6      | name.com  |
+| dinkey.it   | available | $25.99    | $25.99        | low            | low    | 6      | name.com  |
 | repair.it   | resell    | $7,370.35 | $7,370.35     | high           | high   | 6      | name.com  |
 | awfully.it  | premium   | $25.99    | —             | medium         | low    | 7      | name.com  |
-| pentad.it   | available | $25.99    | $25.99        | low            | low    | 6      | name.com  |
+| midday.it   | available | $25.99    | —             | high           | low    | 6      | name.com  |
 | BOJ.it      | resell    | —         | —             | medium         | high   | 3      | —         |
 | blueish.it  | premium   | $25.99    | —             | high           | low    | 7      | name.com  |
-| splints.it  | available | $25.99    | —             | low            | low    | 7      | name.com  |
+| pentad.it   | available | $25.99    | $25.99        | low            | low    | 6      | name.com  |
 | dye.it      | resell    | —         | —             | medium         | low    | 3      | —         |
 | cunning.it  | premium   | $25.99    | —             | medium         | low    | 7      | name.com  |
-| bilinear.it | available | $25.99    | $25.99        | low            | low    | 8      | name.com  |
+| splints.it  | available | $25.99    | —             | low            | low    | 7      | name.com  |
 | EIN.it      | resell    | —         | —             | medium         | high   | 3      | —         |
-| infact.it   | premium   | $25.99    | —             | high           | low    | 7      | name.com  |
-| disposed.it | available | $25.99    | —             | medium         | low    | 8      | name.com  |
-| HTH.it      | resell    | —         | —             | low            | medium | 3      | —         |
 | inthis.it   | premium   | $25.99    | —             | medium         | low    | 7      | name.com  |
-| entirety.it | available | $25.99    | —             | high           | low    | 8      | name.com  |
+| bilinear.it | available | $25.99    | $25.99        | low            | low    | 8      | name.com  |
+| HTH.it      | resell    | —         | —             | low            | medium | 3      | —         |
+| shouted.it  | premium   | $25.99    | —             | medium         | low    | 7      | name.com  |
+| disposed.it | available | $25.99    | —             | medium         | low    | 8      | name.com  |
 | hug.it      | resell    | —         | —             | high           | low    | 3      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,300 live domains                        |
+| 1,000-row public sample | 19,440 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 6 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |

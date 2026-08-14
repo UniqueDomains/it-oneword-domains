@@ -407,6 +407,7 @@ c8438d78-b33a-4c76-b5e9-6c909edd71d4,Rayna.it,resell,,,medium,high,5,,11/05/2010
 de862c81-0fe5-4533-8a04-a3699f4ec0f1,filmschool.it,resell,,,medium,high,11,,08/02/2010 15:10,14/02/2026 00:00
 4623e886-6e70-48c9-9ad6-56e52d279362,Aubrey.it,resell,,,medium,high,6,,11/05/2010 15:28,04/06/2026 00:00
 d0d220f0-4e24-4f51-ae80-c304e3f50634,otherthan.it,premium,25.99,,medium,low,10,name.com,,
+5ff0bb92-19e1-4de2-9996-7e952d118458,dinkey.it,available,25.99,25.99,low,low,6,name.com,,
 62cb0d43-a8eb-4ef5-82fd-e6ec577e31dc,nocturne.it,resell,,,medium,high,8,,05/12/2012 13:28,07/12/2025 00:00
 05dd02d9-230c-4216-8cbd-9369292618d7,lifestyler.it,resell,,,medium,high,10,,19/01/2013 16:46,17/02/2026 00:00
 1feeadb9-d3f7-4737-a3f1-b0b1187a2cc1,premiership.it,resell,,,medium,high,11,,20/01/2016 16:00,20/01/2026 00:00
@@ -704,7 +705,7 @@ e12a6b9e-6d73-4026-bb25-5b69cc6fa5e9,inbetween.it,resell,,,high,high,10,,21/12/2
 1443aec5-53b6-42bc-8174-609aefb2d4d1,ontheplusside.it,available,25.99,,medium,low,16,name.com,,
 6d200fd3-e011-48db-be2f-e2aa112b8b81,electricians.it,resell,,,medium,medium,12,,01/03/2010 17:01,08/03/2026 00:00
 a0f3ee46-b466-4bb3-9f84-695b1dd30118,chaincable.it,resell,,,medium,high,11,,27/07/2012 17:58,14/09/2025 00:00
-110fb808-8f36-4dca-92fc-e50d4983f2cb,diffuse.it,resell,,,high,high,7,,02/05/2024 16:00,02/05/2026 00:00
+110fb808-8f36-4dca-92fc-e50d4983f2cb,diffuse.it,resell,,,low,low,7,,20/06/2026 16:00,20/06/2027 00:00
 54780afe-abda-4cc7-9159-9c3c3ff69b63,mammal.it,resell,,,medium,high,6,,17/04/2011 02:48,10/05/2026 00:00
 37d8b041-1e4c-4578-b6fe-013a1e6ad345,chamois.it,resell,,,high,high,7,,29/01/2015 16:00,12/02/2026 00:00
 e45174dc-3158-4be2-939d-e9ef217c962d,idaho.it,resell,,,high,high,5,,14/01/2011 00:30,29/01/2026 00:00
@@ -998,4 +999,3 @@ a8a732a7-fca8-46d2-9312-5429dc5f9dc5,bodyspray.it,resell,,,medium,medium,10,,18/
 0def0866-dbae-46e8-9b0e-235af1ef4ba7,delicacies.it,resell,,,medium,low,10,,11/01/2010 22:26,29/01/2026 00:00
 a31d2263-9fed-4fef-af10-6b73a18a08d9,branders.it,resell,,,low,medium,8,,21/09/2019 09:00,21/09/2025 00:00
 361ff371-a83a-4238-820d-cdf69bd71856,processing.it,resell,,,medium,high,10,,01/04/2012 20:41,26/04/2026 00:00
-d818585d-591d-4fd6-8525-48127aed136e,infact.it,premium,25.99,,high,low,7,name.com,,

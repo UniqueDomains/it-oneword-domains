@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .it one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,041 domains · **Median ask:** $38.20 · **High-demand under $2,500:** 6
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/it`
 **Best for:** founders, investors, studios
 
@@ -78,10 +78,10 @@ print(df.head())
 | cunning.it  | premium   | $25.99    | —             | medium         | low    | 7      | name.com  |
 | splints.it  | available | $25.99    | —             | low            | low    | 7      | name.com  |
 | EIN.it      | resell    | —         | —             | medium         | high   | 3      | —         |
-| infact.it   | premium   | $25.99    | —             | high           | low    | 7      | name.com  |
+| inthis.it   | premium   | $25.99    | —             | medium         | low    | 7      | name.com  |
 | bilinear.it | available | $25.99    | $25.99        | low            | low    | 8      | name.com  |
 | HTH.it      | resell    | —         | —             | low            | medium | 3      | —         |
-| inthis.it   | premium   | $25.99    | —             | medium         | low    | 7      | name.com  |
+| shouted.it  | premium   | $25.99    | —             | medium         | low    | 7      | name.com  |
 | disposed.it | available | $25.99    | —             | medium         | low    | 8      | name.com  |
 | hug.it      | resell    | —         | —             | high           | low    | 3      | —         |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IT One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IT One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

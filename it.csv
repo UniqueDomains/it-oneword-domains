@@ -187,6 +187,7 @@ f6fb4cf0-7a9a-4f46-a609-a068465a8e61,characteristics.it,resell,,,medium,low,15,,
 77d622f2-3c10-4a5d-9ed1-6d09cd0c9559,butthen.it,premium,25.99,,medium,low,8,name.com,,
 dbddc187-4fbf-4fc3-8589-44958e9cd563,caseworkers.it,resell,,,medium,low,11,,11/01/2010 22:26,29/01/2026 00:00
 c954c168-3cc7-4f7b-8972-a8ce8c8bc338,winemakers.it,resell,,,low,low,10,,09/05/2019 09:00,06/06/2026 00:00
+ff086927-fc98-4f11-b1b0-349279e91eb8,manorial.it,available,25.99,25.99,low,low,8,name.com,,
 40f337ba-0582-48c4-b820-77650865cfb3,videotapes.it,resell,,,low,low,10,,02/02/2000 00:00,25/01/2026 00:00
 7a5c8805-ee79-4fda-9b67-647d761f519d,selfesteem.it,resell,,,medium,high,11,,09/09/2010 10:50,23/09/2025 00:00
 724dc518-15d0-4ac9-a5ed-90a0bc02d4ce,waddle.it,resell,,,medium,high,6,,30/11/2022 09:00,22/11/2025 00:00
@@ -800,7 +801,7 @@ e0919b57-ced4-4412-bb9d-6777d5fc4392,height.it,resell,,,high,low,6,,18/10/2009 1
 f71ba025-8a87-4fed-b5a9-54e73cb26b27,sailingship.it,resell,,,medium,medium,12,,22/10/2015 09:00,04/11/2025 00:00
 3a0552bf-00d4-4d2c-8f64-0ece7c7aa33d,shreveport.it,resell,,,medium,high,10,,12/04/2010 13:58,18/04/2026 00:00
 4d13de00-9f76-4714-a023-083d47f8e034,bumpin.it,resell,,,medium,high,7,,19/04/2020 16:00,19/04/2026 00:00
-ea1f6d35-74b5-4b99-a2a4-7c83d3d94aca,menopausal.it,available,,,medium,high,10,,,
+ea1f6d35-74b5-4b99-a2a4-7c83d3d94aca,menopausal.it,available,25.99,25.99,low,low,10,name.com,,
 ac489d2f-ca56-4061-bc05-abdadd583edc,morning.it,resell,,,high,low,7,,23/01/2018 16:00,23/01/2027 00:00
 4f99c4bc-2932-4fd0-be94-c4fd5e3929d1,soppy.it,resell,,,medium,low,5,,16/05/2021 16:00,01/06/2026 00:00
 87c8d44e-05ba-403f-bd77-e626f7583242,tricycle.it,resell,,,high,high,8,,05/03/2022 09:00,05/03/2026 00:00
@@ -998,4 +999,3 @@ a8a732a7-fca8-46d2-9312-5429dc5f9dc5,bodyspray.it,resell,,,medium,medium,10,,18/
 0def0866-dbae-46e8-9b0e-235af1ef4ba7,delicacies.it,resell,,,medium,low,10,,11/01/2010 22:26,29/01/2026 00:00
 a31d2263-9fed-4fef-af10-6b73a18a08d9,branders.it,resell,,,low,medium,8,,21/09/2019 09:00,21/09/2025 00:00
 361ff371-a83a-4238-820d-cdf69bd71856,processing.it,resell,,,medium,high,10,,01/04/2012 20:41,26/04/2026 00:00
-d818585d-591d-4fd6-8525-48127aed136e,infact.it,premium,25.99,,high,low,7,name.com,,

@@ -43,7 +43,7 @@ b1b0a629-9bc8-4abc-b590-c3dcdec3062f,incubate.it,resell,,,high,high,8,,02/10/201
 008d1542-1380-4acf-8239-072748c41c07,bestman.it,resell,,,medium,high,8,,07/11/2012 11:46,22/11/2025 00:00
 3211e8ad-9a03-4143-ac08-bfa15621802d,livery.it,resell,,,high,high,6,,19/05/2010 20:12,08/06/2026 00:00
 8d7fcfaf-34e9-4aa9-ae2e-ef1e402f2c88,guinevere.it,resell,,,medium,high,9,,20/04/2010 14:14,11/05/2026 00:00
-57b28111-d61a-48bb-bdc4-434231ef0bbc,dominate.it,resell,,,high,high,8,,27/03/2016 09:00,27/03/2026 00:00
+57b28111-d61a-48bb-bdc4-434231ef0bbc,dominate.it,resell,,,medium,medium,8,,27/03/2016 09:00,27/03/2027 00:00
 6a42a6f6-ecc9-4893-aedb-76305833a3c6,equestrian.it,resell,,,high,high,10,,14/02/2011 18:21,14/02/2026 00:00
 3aef7fe6-8e3c-4f58-97b9-3adf9f9bba97,pally.it,resell,,,medium,high,5,,01/04/2021 09:00,17/04/2026 00:00
 1a4bd40b-633a-4d9d-bf99-5cead25e0884,squishy.it,resell,,,high,high,7,,29/01/2017 16:00,29/01/2026 00:00
@@ -733,7 +733,7 @@ d177dbc3-59a0-42d6-b89b-2590990b606d,soar.it,resell,,,medium,high,4,,03/02/2010 
 71b040e7-a363-4ab7-b6a2-fc418a1a090b,pitchin.it,resell,,,medium,high,8,,21/03/2017 16:00,21/03/2026 00:00
 c6f47b10-1c13-4a78-80c1-f290f18742e8,charger.it,resell,,,medium,high,7,,28/12/2018 09:00,28/12/2025 00:00
 0b320a7d-ef57-4b01-bafe-b77f607dbd0b,roofing.it,resell,,,medium,high,7,,14/03/2021 16:00,16/06/2026 00:00
-fc69ee37-62e6-4866-90f1-1e0814d45712,paved.it,resell,,,medium,high,5,,14/12/2023 09:00,14/12/2025 00:00
+fc69ee37-62e6-4866-90f1-1e0814d45712,paved.it,resell,,,low,low,5,,14/12/2023 09:00,14/12/2026 00:00
 083e79c1-60e1-4eef-84b6-c10d59ec7c30,fortunate.it,resell,,,high,high,9,,01/12/2018 09:00,01/12/2025 00:00
 d644ef84-0cb6-490a-96b3-7a468d95909f,fusilli.it,resell,,,medium,low,7,,18/03/2010 10:28,11/03/2026 00:00
 50f590b8-9172-455b-b711-1f8915c879d3,flatscreen.it,resell,,,high,high,10,,06/01/2017 16:00,06/01/2026 00:00
@@ -970,6 +970,7 @@ e39bcc7f-f84f-46e3-a124-90cd848c6170,offerings.it,resell,,,low,low,9,,15/02/2010
 67d07fb8-c570-4274-bac0-e66037e52be3,silverfox.it,resell,,,medium,high,10,,01/10/2010 21:40,18/10/2025 00:00
 50588183-86b0-4344-b0d9-2a1cdcae36c2,barns.it,resell,,,low,medium,5,,21/12/2009 21:54,26/12/2025 00:00
 4ef2be3e-dc8a-4db7-98aa-27d7dacc1c4d,inflate.it,resell,,,high,high,7,,24/05/2018 09:00,24/05/2026 00:00
+6b471ea1-b9fe-48cf-89f9-4fe0fddf3ed9,probatory.it,available,25.99,25.99,low,low,9,name.com,,
 9bf76011-7f02-4e37-9402-f3e524295f59,PuertoRican.it,resell,,,medium,high,12,,13/09/2010 10:18,28/09/2025 00:00
 fca2acbb-0ed2-4655-80aa-63ede058b654,loaning.it,resell,,,medium,medium,7,,21/04/2013 04:41,07/05/2026 00:00
 f5e3ebd2-68cb-430f-a2de-de069a9ffbf4,ponies.it,resell,,,medium,medium,6,,31/03/2012 17:05,16/04/2026 00:00
@@ -998,4 +999,3 @@ a8a732a7-fca8-46d2-9312-5429dc5f9dc5,bodyspray.it,resell,,,medium,medium,10,,18/
 a31d2263-9fed-4fef-af10-6b73a18a08d9,branders.it,resell,,,low,medium,8,,21/09/2019 09:00,21/09/2025 00:00
 361ff371-a83a-4238-820d-cdf69bd71856,processing.it,resell,,,medium,high,10,,01/04/2012 20:41,26/04/2026 00:00
 d818585d-591d-4fd6-8525-48127aed136e,infact.it,premium,25.99,,high,low,7,name.com,,
-fb242005-6d38-4540-a194-8f0b1f69909b,myLady.it,resell,,,high,medium,7,,27/03/2013 13:32,12/04/2026 00:00

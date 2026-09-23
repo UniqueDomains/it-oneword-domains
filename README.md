@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .it one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,114 domains · **Median ask:** $35.56 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/it`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,6 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| rear.it     | resell    | —         | —             | high           | low    | 4      | —         |
-| token.it    | resell    | —         | —             | high           | medium | 5      | —         |
-| brag.it     | resell    | —         | —             | high           | high   | 4      | —         |
 | lvii.it     | available | $25.99    | $25.99        | low            | low    | 4      | name.com  |
 | repair.it   | resell    | $7,370.35 | $7,370.35     | high           | high   | 6      | name.com  |
 | chased.it   | premium   | $25.99    | —             | high           | low    | 6      | name.com  |
@@ -84,6 +81,9 @@ print(df.head())
 | blueish.it  | premium   | $25.99    | —             | high           | low    | 7      | name.com  |
 | bilinear.it | available | $25.99    | $25.99        | low            | low    | 8      | name.com  |
 | hug.it      | resell    | —         | —             | high           | low    | 3      | —         |
+| cunning.it  | premium   | $25.99    | —             | medium         | low    | 7      | name.com  |
+| disposed.it | available | $25.99    | —             | medium         | low    | 8      | name.com  |
+| iep.it      | resell    | —         | —             | medium         | high   | 3      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IT One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IT One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

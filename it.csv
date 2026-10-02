@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 462a24fe-faaf-4bff-a062-ea7049a29e79,buffoon.it,available,25.99,25.99,medium,low,7,name.com,,,24/09/2026 10:55
 883e8842-349f-48aa-9b63-5e70b7a62124,appall.it,available,25.99,25.99,medium,low,6,name.com,,,18/09/2026 01:55
+896a18fc-3591-4c40-87b5-01e341ac0ea9,uxbridge.it,resell,,,medium,low,8,,,,01/10/2026 11:40
 1b6305d8-6cfc-439b-a427-5e18b72e9d6e,microbial.it,available,25.99,25.99,medium,low,9,name.com,,,08/09/2026 09:41
 2d994a32-a55e-485a-b024-d10059dd4cff,ambrosian.it,available,25.99,25.99,high,low,9,name.com,,,
 605198f8-713b-413d-9cdf-725ddd585226,unsuitable.it,available,25.99,25.99,medium,low,10,name.com,,,22/08/2026 00:19
@@ -17,11 +18,13 @@ e66a4ac2-49cb-41a5-a66b-835bceb9ed4d,incumbent.it,available,25.99,25.99,high,low
 4827b356-02d8-4d44-86bf-b46ecefd5f35,chechnya.it,available,6.66,5.5,medium,low,8,dynadot,,,29/09/2026 18:18
 ccca2bb7-576e-46f9-a816-e889cf12cd24,scary.it,resell,,,high,low,5,,11/09/2023 16:00,11/09/2027 00:00,28/09/2026 04:35
 a8f44076-e8ff-4642-b55e-8faa42a1ce4a,unearthly.it,available,25.99,25.99,medium,low,9,name.com,,,16/08/2026 02:28
+0717a420-37a8-4be1-b6fd-01b5462d7ceb,keokuk.it,available,6.64,5.48,medium,low,6,dynadot,,,01/10/2026 20:13
 e3bde5be-d370-4a17-83c4-9c2fb366ea55,phial.it,available,25.99,25.99,medium,low,5,name.com,,,18/09/2026 23:47
 2a3b552c-e129-4374-bd16-d932f9ecb197,speckled.it,available,25.99,25.99,medium,low,8,name.com,,,14/08/2026 16:34
 f5949833-7d79-4464-9abf-a3b3953cfddc,stemless.it,available,25.99,25.99,medium,low,8,name.com,,,
 a22e0ae4-f248-4e63-a9e8-5b4711bf9ea5,rosy.it,resell,,,high,low,4,,04/02/2016 09:00,24/01/2027 00:00,26/09/2026 08:44
-3bd4f683-be32-4974-8c80-6cefcfbd26b4,giants.it,resell,,,high,medium,6,,03/11/2020 09:00,15/11/2026 00:00,28/09/2026 13:23
+ce379531-839a-48fa-a5c6-7c634aa9ff3e,nicaea.it,available,6.59,5.44,medium,low,6,dynadot,,,02/10/2026 04:51
+21809b11-0864-41f7-bc2c-2c616926462e,pyotr.it,available,6.64,5.48,medium,low,5,dynadot,,,01/10/2026 11:42
 515f4b9a-d000-4f90-8342-ed9d8673fc4c,playpen.it,resell,,,high,high,7,,30/01/2021 16:00,30/01/2026 00:00,
 b9059515-195c-4944-9461-e464609d07c8,sarawak.it,available,6.67,5.51,high,low,7,dynadot,,,28/09/2026 15:18
 d59269fe-6d75-470a-90a1-14ed782b7d60,astonished.it,premium,25.99,,high,low,10,name.com,,,
@@ -29,6 +32,7 @@ db39d6e1-19fb-4461-878f-5ef1b16c7a4a,oppression.it,available,6.66,5.5,medium,low
 8de4dd85-420e-417a-af2f-b97d79cfbdaa,apoplectic.it,available,25.99,25.99,medium,low,10,name.com,,,06/08/2026 03:29
 ddb4f9aa-435e-48fe-8c2d-f3cab12abdcf,ampoule.it,available,25.99,25.99,medium,low,7,name.com,,,18/09/2026 23:49
 7e342734-e9bb-44fd-809a-4847cb53e449,azoic.it,available,25.99,25.99,medium,low,5,name.com,,,08/08/2026 02:22
+a8fda300-a463-4ab8-b747-4a97010cccb5,confederacy.it,available,6.64,5.48,medium,low,11,dynadot,,,01/10/2026 22:53
 7dc42b39-5f7c-4645-bd37-87f4e8e54948,danceable.it,available,25.99,25.99,high,low,9,name.com,,,13/08/2026 16:59
 4e26ab3b-b84f-4c9c-8f41-992a05006e98,haywire.it,available,25.99,25.99,medium,low,7,name.com,,,
 f2e5fa90-f251-4866-baae-0f49782fdfe6,flabby.it,available,25.99,25.99,medium,low,6,name.com,,,18/08/2026 06:05
@@ -47,6 +51,7 @@ d29f4a86-3d45-4c32-b6b5-7b664e8f8bdb,mccall.it,available,6.67,5.51,medium,low,6,
 77ce50dd-8c23-4aec-abf4-ae62272b8773,torpedoes.it,available,6.66,5.5,low,low,9,dynadot,,,29/09/2026 11:10
 169dc9b0-a2da-45eb-a939-25c78767a7dc,condemnation.it,available,6.65,5.49,medium,low,12,dynadot,,,30/09/2026 23:02
 4e9cdeb9-84b9-4bf0-abbb-0835feddc928,cutaneous.it,available,25.99,25.99,medium,low,9,name.com,,,13/08/2026 12:54
+593c9395-1d1a-485a-8879-1da03fec0b5d,gwynedd.it,available,6.64,5.48,medium,low,7,dynadot,,,02/10/2026 00:00
 46ac2b89-9296-436c-bdb5-126ec936a7b0,acyl.it,available,25.99,25.99,medium,low,4,name.com,,,17/09/2026 05:49
 e39acd16-0d32-4b02-abfe-c880c016f7ef,dionysian.it,available,,,high,low,9,,,,
 5997257d-05e1-4329-aeb7-0906067b2327,teetotal.it,available,,,medium,low,8,,,,
@@ -79,9 +84,9 @@ d3568577-7d03-4268-aeb9-f2e80b1424dc,circuitous.it,available,25.99,25.99,medium,
 d6c7b215-d398-4435-8609-1eefd73add11,marcellus.it,available,6.66,5.5,medium,low,9,dynadot,,,29/09/2026 15:33
 55dece24-b3af-454e-abb9-ca84a86fde9c,encounter.it,resell,,,high,low,9,,17/04/2026 09:06,17/04/2027 00:00,26/09/2026 05:50
 f978fc61-29e2-4ceb-9343-e94977a3ddbb,immaculate.it,available,25.99,25.99,high,low,10,name.com,,,18/08/2026 00:07
-5b743d30-36c7-4c29-aa38-c513e0137879,jpl.it,resell,,,high,high,3,,29/06/2007 09:53,29/06/2027 00:00,26/09/2026 07:02
+5b743d30-36c7-4c29-aa38-c513e0137879,jpl.it,resell,,,high,low,3,,29/06/2007 09:53,29/06/2027 00:00,01/10/2026 07:58
 c4560938-b2a1-49c3-8f41-9b446c7f3672,internationally.it,available,25.99,,medium,low,15,name.com,,,
-1e370d0b-99b6-4f56-bee6-de148790c9b1,hearth.it,resell,,,high,high,6,,18/04/2016 16:00,07/05/2027 00:00,26/09/2026 06:37
+1e370d0b-99b6-4f56-bee6-de148790c9b1,hearth.it,resell,,,high,low,6,,18/04/2016 16:00,07/05/2027 00:00,02/10/2026 04:52
 dc354931-6374-40bc-83e3-edfa10c51f8d,dogwoods.it,available,25.99,25.99,medium,low,8,name.com,,,20/09/2026 13:05
 5e178413-ef63-4c5f-888b-f0f87241181b,defection.it,available,25.99,25.99,medium,low,9,name.com,,,19/09/2026 19:16
 e13e78f3-59c4-43d0-b2a8-2864ea90c4a5,beshrew.it,available,25.99,25.99,medium,low,7,name.com,,,13/08/2026 16:19
@@ -94,11 +99,14 @@ c789beb5-c237-4a0b-8fd4-7dc4088bafcf,paducah.it,available,6.65,5.49,high,low,7,d
 bd3b704a-5c3e-4fb2-9ba6-3035d922a8a0,motored.it,available,25.99,25.99,high,low,7,name.com,,,25/08/2026 08:30
 8b987a46-21b2-43a4-a3cd-39dbf649effb,atonic.it,available,25.99,25.99,low,low,6,name.com,,,07/08/2026 13:54
 209d5ab9-dfa7-4725-9731-31fdebcc5ed2,farmstand.it,available,25.99,,high,low,10,name.com,,,
+773c9688-cc00-496d-adb7-6aaa36b79db2,yeager.it,available,6.64,5.48,medium,low,6,dynadot,,,02/10/2026 00:48
 436da1fc-5ee4-409b-ae9a-b0a43011ce61,acquainted.it,available,6.67,5.51,high,low,10,dynadot,,,28/09/2026 07:02
 53881581-1bbf-4a04-a909-2713487fdd31,carbonates.it,available,6.66,5.5,medium,low,10,dynadot,,,30/09/2026 00:32
 d6613d5d-1939-4dc6-9393-d2644297d5a9,effluent.it,available,25.99,25.99,medium,low,8,name.com,,,15/08/2026 14:47
 d87cf9e2-e87a-4295-bbec-38ffe2e65db7,apneic.it,available,25.99,25.99,medium,low,6,name.com,,,06/08/2026 00:40
 efe66fe7-2007-47ca-b0f7-f91c785c1fbc,cleft.it,available,25.99,25.99,high,low,5,name.com,,,12/08/2026 10:39
+b23ed727-eb2e-4b05-beea-6a78ef5c94e3,rong.it,resell,,,low,low,4,,,,02/10/2026 02:50
+fac8c163-8b3e-47dc-a106-6142f2505499,vespasian.it,available,6.59,5.44,medium,low,9,dynadot,,,02/10/2026 06:33
 df6468a0-a103-4049-b40c-3996486f40e5,ruckle.it,available,25.99,25.99,medium,low,6,name.com,,,13/08/2026 07:12
 14fe9d40-8743-4ced-b370-b09a8a347d28,cityfied.it,available,25.99,25.99,medium,low,8,name.com,,,12/08/2026 08:49
 53b29b32-43e2-4785-ba0a-718ca15b524b,disappointment.it,available,25.99,,medium,low,14,name.com,,,
@@ -129,6 +137,7 @@ d9e6c71f-f3e1-43f1-9d6e-9097303515de,fourteenth.it,available,25.99,25.99,high,lo
 e3540f49-4e43-4f22-98a6-372ae4bba4ea,deleted.it,resell,,,medium,low,7,,,,29/09/2026 21:19
 b1d8c3d8-ec82-49f7-af58-f4cf471f668f,mellowed.it,available,25.99,25.99,medium,low,8,name.com,,,24/08/2026 19:36
 19eeb144-59f0-4a00-8ec7-84f5edfb8dfb,knobby.it,available,25.99,25.99,medium,low,6,name.com,,,22/08/2026 16:29
+a26466cf-6c8a-4d02-886c-824e61dd234d,niosh.it,available,6.64,5.48,medium,low,5,dynadot,,,02/10/2026 00:36
 c3cfb837-20c7-4ae7-9fb7-19237e2d8ad8,hobbies.it,resell,,,medium,low,7,,26/05/2015 16:00,17/07/2027 00:00,26/09/2026 06:41
 619eec71-43f4-4ba5-9434-a6a742b04190,unabated.it,available,25.99,25.99,medium,low,8,name.com,,,11/09/2026 23:24
 96b2698e-b456-4310-b8f0-14e8562e3208,disrupt.it,resell,,,high,low,7,,21/03/2026 09:00,21/03/2027 00:00,26/09/2026 05:36
@@ -136,16 +145,19 @@ c3cfb837-20c7-4ae7-9fb7-19237e2d8ad8,hobbies.it,resell,,,medium,low,7,,26/05/201
 55fc67c9-7e89-4bdc-bcb5-128641e54077,clairvoyants.it,resell,,,medium,low,12,,05/06/2025 16:00,05/06/2027 00:00,26/09/2026 04:57
 5c6c0f8c-289d-4f65-a84d-ee9ebd7ad524,calvinist.it,available,25.99,25.99,medium,low,9,name.com,,,11/08/2026 15:24
 c877d05a-4549-4eb4-affe-b9727dcbf74b,auld.it,available,25.99,25.99,medium,low,4,name.com,,,07/08/2026 17:21
+2a38d089-d916-4361-93b1-b6dcb4218197,repast.it,available,6.59,5.44,high,low,6,dynadot,,,02/10/2026 02:34
 feb68e05-2d8f-441f-92c5-7d0a450a5db2,gossamer.it,available,25.99,25.99,high,low,8,name.com,,,12/08/2026 14:32
 a55aceff-45fd-4d37-8d5b-8161ef25c04b,condiments.it,resell,,,medium,low,10,,09/05/2000 00:00,04/09/2025 00:00,
 7e927fec-88ae-452e-8bf7-89eaa4ae7f71,doughy.it,available,25.99,25.99,high,low,6,name.com,,,14/08/2026 17:03
 dc234293-68ae-4949-b824-da5a3a3a0ea8,dawkins.it,available,6.66,5.5,medium,low,7,dynadot,,,29/09/2026 15:39
 324042ee-a8cd-45ae-b886-f5e50126abb0,invaded.it,available,6.67,5.51,low,low,7,dynadot,,,28/09/2026 23:00
+c6b2de45-c299-4d40-bb9f-2a8d430aa14c,academical.it,available,6.64,5.48,medium,low,10,dynadot,,,01/10/2026 22:17
 a1e51258-2b17-4f63-8f23-228b9c3bc718,tearless.it,available,25.99,25.99,medium,low,8,name.com,,,14/08/2026 20:31
 b9b3dcd7-7fec-4ad2-8675-ab2a34deb038,haggard.it,available,25.99,25.99,medium,low,7,name.com,,,10/08/2026 18:56
 7b8c68c5-bdbc-4085-ad50-894dadd8f549,goggles.it,resell,,,high,low,7,,10/01/2025 16:00,10/01/2027 00:00,30/09/2026 17:29
 41c14105-bcf8-45b6-a82d-933cb58ccde5,untrustworthy.it,available,25.99,,medium,low,13,name.com,,,
 432793dc-d1d2-44c1-8504-a6d74121e9c0,indistinct.it,available,25.99,25.99,medium,low,10,name.com,,,22/08/2026 03:14
+b93d2745-e90c-4cd8-8c57-d09789fb0046,gospels.it,available,6.59,5.44,high,low,7,dynadot,,,02/10/2026 04:45
 96a6d4a6-73ef-49b4-ad79-6192230de0db,unquestionable.it,available,25.99,,medium,low,14,name.com,,,
 8f59778d-35b2-4a2e-b33c-60c9e42c45e2,bermudas.it,resell,,,high,low,8,,03/12/2014 09:00,12/12/2026 00:00,26/09/2026 04:22
 58f88c09-02c4-429d-ab03-56cb17fd071f,alvine.it,available,25.99,25.99,medium,low,6,name.com,,,
@@ -160,11 +172,11 @@ c5a63ee5-3f42-404e-917b-81efae0b1f94,copenhagen.it,resell,,,high,low,10,,29/12/1
 bbb42727-c625-4e83-968e-9ba8f8decffd,circuit.it,resell,,,high,low,7,,14/09/2023 09:00,08/09/2027 00:00,29/09/2026 09:16
 c9cb93f4-0e9d-470c-946c-969875bd346b,regions.it,available,25.99,,high,medium,7,name.com,,,
 7a350348-f838-4719-9d52-0a44798729a2,jutting.it,available,25.99,25.99,medium,low,7,name.com,,,22/08/2026 14:44
+157aae77-2891-4c0b-aeb1-2add07a2edb6,boasting.it,available,6.59,5.44,medium,low,8,dynadot,,,02/10/2026 04:07
 28a880ee-4d10-4b4f-910d-3e9d5ac32a32,zovirax.it,available,25.99,25.99,medium,low,7,name.com,,,17/09/2026 05:42
 e2b93e94-1484-4037-84a9-f9c3345769b9,wheaton.it,available,6.67,5.51,high,low,7,dynadot,,,28/09/2026 07:32
 9236996a-048c-4b4d-a217-6cdf750d28b0,ahl.it,resell,,,high,low,3,,,,29/09/2026 10:25
 4a382a65-63da-4e81-a644-184ae735311d,yuen.it,available,6.65,5.49,medium,low,4,dynadot,,,30/09/2026 06:59
-15d0a51a-b62f-42b0-a7a2-983a8ed39825,playfield.it,available,25.99,,high,low,9,name.com,,,
 8500a0af-604d-45e4-be0f-486c2c780c94,tablespoons.it,available,25.99,,medium,low,11,name.com,,,
 61b72959-42b0-4a66-9523-9ffcc925e6a9,flossy.it,available,25.99,25.99,high,low,6,name.com,,,14/08/2026 17:44
 66fdb0df-a79b-4861-9297-b3529cfc00f0,goddamned.it,available,25.99,25.99,medium,low,9,name.com,,,10/08/2026 12:48
@@ -191,6 +203,7 @@ a10def15-d928-4038-9c73-c156ca14f013,accounted.it,available,25.99,,medium,low,9,
 b239331f-be75-4bfc-8e3e-8706e2d77509,recognised.it,premium,25.99,,high,low,10,name.com,,,
 ee4fbf74-d02c-474c-9234-291ffee4482a,medallion.it,resell,,,high,low,9,,21/03/2022 07:49,21/03/2027 00:00,30/09/2026 10:23
 7dc52057-a176-41c7-9d03-57c623187919,dabble.it,resell,,,high,high,6,,20/03/2019 16:00,14/03/2027 00:00,26/09/2026 05:24
+5839544a-1bfd-4d39-a3fc-05961931b3c1,quayle.it,available,6.64,5.48,medium,low,6,dynadot,,,01/10/2026 11:02
 ee05b911-8b32-4c24-81ed-03e4e35628b7,fights.it,resell,,,medium,low,6,,15/11/2016 09:00,12/04/2027 00:00,26/09/2026 06:04
 b23c0cf3-a18b-4a4b-9253-01342c8b4218,unconventional.it,resell,,,high,high,14,,19/04/2025 16:00,19/04/2027 00:00,26/09/2026 09:50
 1cea3bd5-e164-4fcc-8413-a3b3bba41cb7,abenaki.it,available,25.99,25.99,high,low,7,name.com,,,
@@ -201,6 +214,8 @@ e42a419a-9529-48aa-9abb-ddd3b19db0a3,idiotic.it,premium,25.99,25.99,medium,low,7
 cc63d1e3-6eed-4871-a08e-15dc452cd099,muni.it,resell,,,high,low,4,,,,30/09/2026 12:26
 18db77b4-fae6-4c45-b7de-8b04dfbee715,quill.it,resell,,,high,low,5,,,,29/09/2026 18:54
 0c509909-17d7-4024-a0bb-406c975fa69c,ethnologic.it,available,25.99,25.99,high,low,10,name.com,,,17/08/2026 13:51
+de653a63-4003-468e-8e7a-38dbe2728a35,raping.it,available,6.59,5.44,medium,low,6,dynadot,,,02/10/2026 04:05
+1bebb8d2-7714-4da1-9517-1248475e5401,hopkinson.it,available,6.59,5.44,medium,low,9,dynadot,,,02/10/2026 04:57
 89908d84-d0d1-4171-9524-de1ddc222d86,tempering.it,resell,,,medium,low,9,,10/03/2026 11:01,10/03/2027 00:00,26/09/2026 09:33
 de71577f-d8fb-4663-997b-549920f222f8,embossed.it,available,25.99,25.99,high,low,8,name.com,,,11/08/2026 05:17
 7ed5afd2-c664-41bb-879d-c22d02f4711f,buoyant.it,available,25.99,25.99,high,low,7,name.com,,,11/08/2026 10:06
@@ -218,12 +233,12 @@ eb809d34-c582-495d-a8e8-66a4cc1d51f7,emphasize.it,resell,,,high,low,9,,26/02/202
 0524fbd1-7fac-45b7-a71a-1547087e7be4,flavourful.it,available,25.99,25.99,high,low,10,name.com,,,18/08/2026 07:06
 f3d956f0-e45b-436a-9786-428a0107b37c,dopy.it,available,25.99,25.99,low,low,4,name.com,,,14/08/2026 16:02
 bb0e8e34-a2d2-46eb-82b8-ab216ca55be3,judea.it,available,6.66,5.5,medium,low,5,dynadot,,,29/09/2026 07:23
-9a35182c-42af-4345-9da4-d1951db5e1e9,lyon.it,resell,,,high,high,4,,14/01/2010 20:51,15/06/2027 00:00,26/09/2026 07:21
+9a35182c-42af-4345-9da4-d1951db5e1e9,lyon.it,resell,,,high,low,4,,14/01/2010 20:51,15/06/2027 00:00,01/10/2026 20:25
 807a16af-4590-4a18-b0cd-76874f020358,genteel.it,available,25.99,25.99,high,low,7,name.com,,,13/08/2026 10:19
 df1556e1-e611-48b2-9248-484c3a2612fa,cushioned.it,available,25.99,25.99,high,low,9,name.com,,,13/08/2026 11:53
 72bd0f09-3d45-4c19-8e0e-0b53f5754a6a,salmagundi.it,available,25.99,25.99,high,low,10,name.com,,,25/08/2026 08:22
 24d59e79-72f3-4302-b5e7-efbe08b72a18,lathery.it,available,25.99,25.99,medium,low,7,name.com,,,22/08/2026 20:36
-adb7c3b0-88a5-4daf-9488-12f9dcc7103a,manageable.it,available,6.67,5.51,high,low,10,dynadot,,,28/09/2026 15:51
+adb7c3b0-88a5-4daf-9488-12f9dcc7103a,manageable.it,available,6.64,5.48,high,low,10,dynadot,,,01/10/2026 13:54
 07fc6728-6f6e-4036-87d8-b80b4a4e382a,potted.it,resell,,,high,medium,6,,08/07/2022 16:00,08/07/2027 00:00,26/09/2026 08:16
 db018b36-4ca7-457b-828a-821453d09181,eidetic.it,available,25.99,25.99,medium,low,7,name.com,,,15/08/2026 19:54
 5df0b700-340a-4e25-8070-8f37f730560a,blueish.it,premium,25.99,,medium,low,7,name.com,,,
@@ -271,8 +286,10 @@ a938911b-bb32-4982-a0c1-0d2349dc6b35,bicorn.it,available,25.99,25.99,medium,low,
 e661528e-117d-4594-926b-98ebcadd7fe9,trike.it,resell,,,high,high,5,,24/11/2022 16:00,24/11/2025 00:00,
 d5ce9e88-005c-4bf9-bbfd-7a23a9929358,sustain.it,resell,,,high,low,7,,,,29/09/2026 02:41
 a6124470-95cc-4500-89f8-dee603f5d733,damaging.it,available,25.99,25.99,medium,low,8,name.com,,,13/08/2026 16:05
+22316edb-6fca-4a11-9315-fc7ac3409c0d,fainting.it,available,6.64,5.48,medium,low,8,dynadot,,,01/10/2026 22:58
 317886e3-a07f-43c0-8eee-441ac77d8774,scummy.it,available,25.99,25.99,medium,low,6,name.com,,,
 2520964e-3984-47bf-8ead-d4963443440e,weil.it,resell,,,medium,low,4,,03/08/2022 16:00,03/08/2027 00:00,26/09/2026 10:06
+658d3afc-95d3-47bf-91b9-e3939415aa61,elbows.it,available,6.64,5.48,low,low,6,dynadot,,,01/10/2026 17:38
 6b69f04a-c646-443f-aaf8-d719664bc851,diazo.it,available,25.99,25.99,medium,low,5,name.com,,,14/08/2026 06:23
 906b8aa2-70ae-41a3-b314-13cd642edbd7,brinjal.it,available,25.99,25.99,high,low,7,name.com,,,21/09/2026 02:34
 4281e027-731f-48a7-883a-f5fc6cd78ca0,aneroid.it,available,25.99,25.99,medium,low,7,name.com,,,
@@ -283,8 +300,8 @@ a6124470-95cc-4500-89f8-dee603f5d733,damaging.it,available,25.99,25.99,medium,lo
 c6f1b96e-7231-4109-8725-fe392aae2cf0,seoul.it,resell,,,high,low,5,,18/09/2003 00:00,20/02/2027 00:00,29/09/2026 06:58
 64968660-b06f-4d7e-ae77-41a3b56fc460,prodigious.it,available,25.99,25.99,high,low,10,name.com,,,12/08/2026 17:58
 84017ead-a614-49b2-9d8e-07e1ef27ae25,subport.it,available,6.67,5.51,medium,low,7,dynadot,,,28/09/2026 16:14
+8b1f94a5-7f1f-4fc8-93d5-30a1e7303aab,predefined.it,available,6.64,5.48,medium,low,10,dynadot,,,01/10/2026 16:01
 8638803d-f5cc-4401-9110-977575b4e5c8,blench.it,available,25.99,25.99,medium,low,6,name.com,,,04/09/2026 23:29
-43d5608b-9d8d-4354-bb75-6b6d5d126974,saddening.it,available,25.99,,medium,low,9,name.com,,,
 55b3b555-42dd-4aaa-854a-10728384a9ed,oversexed.it,available,25.99,25.99,medium,low,9,name.com,,,21/08/2026 09:17
 40a496a4-cf40-43cb-bf6c-6e9f61c675f9,reverent.it,available,25.99,25.99,high,low,8,name.com,,,20/08/2026 16:08
 25e3cbb1-73df-40cd-97b0-362b5295c256,abaxial.it,available,25.99,25.99,medium,low,7,name.com,,,
@@ -295,6 +312,7 @@ cf820336-8cc3-4254-bfdd-7c1915ee75f4,lilian.it,resell,,,medium,low,6,,,,29/09/20
 52074656-169c-4bc0-a96a-b1620a6e7956,isotropic.it,available,25.99,25.99,medium,low,9,name.com,,,22/08/2026 11:28
 38f15957-8a4e-4787-ac27-5034fa686970,date.it,resell,,,high,low,4,,20/01/2000 00:00,25/01/2027 00:00,29/09/2026 13:13
 c686f4ff-0edb-4da9-b213-71db783d7ba7,consummate.it,premium,25.99,,high,low,10,name.com,,,
+ae18d18c-2c74-49ac-9e8a-b2544d852cdc,avifauna.it,resell,,,medium,low,8,,16/09/2008 09:24,16/09/2027 00:00,02/10/2026 04:35
 95ce5350-4305-43ff-be87-2731333d7958,somehow.it,resell,,,medium,low,7,,28/04/2016 16:00,28/04/2027 00:00,28/09/2026 15:41
 5d0b5b0c-61ef-4c9b-af9c-52b65e9ee604,diverting.it,available,,,medium,low,9,,,,
 7f28573d-8b91-4693-a7fc-76614aad4ece,originated.it,available,6.66,5.5,low,low,10,dynadot,,,29/09/2026 23:39
@@ -303,6 +321,7 @@ c9af3d51-8b8e-447a-b92e-734ec095967f,shouting.it,resell,,,medium,low,8,,10/03/20
 e3bd3950-2719-4b30-b51a-3560915527aa,lamplit.it,available,25.99,25.99,medium,low,7,name.com,,,22/08/2026 19:11
 f6cb2c20-aad5-4ce0-955e-3aee96b30b04,stopgap.it,available,25.99,25.99,high,low,7,name.com,,,24/08/2026 13:27
 481df300-f282-4d8b-9423-a4bc0def4eb6,mavis.it,resell,,,high,high,5,,12/09/2023 09:00,12/09/2027 00:00,28/09/2026 04:35
+c410c62d-39bd-4e7e-92d0-39ef16ce8628,commissioners.it,available,6.59,5.44,low,low,13,dynadot,,,02/10/2026 02:36
 5ce2d5ca-f035-436a-b1a0-42a8cba874fb,inhuman.it,available,25.99,25.99,medium,low,7,name.com,,,12/08/2026 16:25
 74d16f09-87b5-4379-b0da-6e8f8c2254d3,massage.it,resell,,,high,low,7,,18/03/2025 09:00,18/03/2027 00:00,30/09/2026 03:59
 cd8f1e57-f2f3-4bcf-9ebb-8582bf8e1482,yobo.it,resell,,,medium,low,4,,21/04/2020 16:00,21/04/2027 00:00,26/09/2026 10:16
@@ -346,7 +365,7 @@ f01f3f1a-2708-4a34-98ed-be200d5e4452,diachronic.it,available,25.99,25.99,medium,
 442391d5-7d40-4adb-95ee-6d482a1e6cc8,rarified.it,available,25.99,25.99,medium,low,8,name.com,,,17/08/2026 15:46
 ee3e831c-8639-4b9d-b28b-c2cca2e6c87e,despicable.it,available,25.99,25.99,medium,low,10,name.com,,,14/08/2026 04:00
 f7a76da2-4412-45a2-9d29-58f7aeaf394a,carotid.it,available,25.99,25.99,high,low,7,name.com,,,11/08/2026 19:33
-044cd6b0-8185-4e0d-a75a-d5c031aee996,mothafucker.it,available,25.99,,medium,low,11,name.com,,,
+044cd6b0-8185-4e0d-a75a-d5c031aee996,mothafucker.it,available,6.59,5.44,medium,low,11,dynadot,,,02/10/2026 05:20
 7c55a2c1-af30-466e-9d27-90bef5da19da,bowfront.it,available,25.99,25.99,high,medium,8,name.com,,,10/08/2026 23:19
 c2c24a93-c3fa-4525-b256-1e501c7a5d9f,endured.it,available,6.66,5.5,medium,low,7,dynadot,,,29/09/2026 23:57
 8df96ec0-6c28-4b2d-b627-d12292fa6dec,intently.it,resell,,,medium,low,8,,07/04/2022 18:00,07/04/2027 00:00,26/09/2026 06:55
@@ -365,7 +384,9 @@ abf4dc6e-016d-458f-9ca6-06e316f790f0,concealing.it,available,25.99,25.99,high,lo
 c451af5b-6b57-4644-9985-ea4bdf013128,curving.it,available,25.99,25.99,high,low,7,name.com,,,13/08/2026 11:49
 52b2d63b-ce77-4a81-b681-ceee71171a10,opined.it,available,6.67,5.51,low,low,6,dynadot,,,28/09/2026 09:10
 f56f9956-9985-4899-9691-cc88a7c5f824,westward.it,available,25.99,25.99,high,low,8,name.com,,,13/09/2026 10:55
+b6c798d9-709f-4453-9445-2a1f91f50dee,lachlan.it,available,6.59,5.44,medium,low,7,dynadot,,,02/10/2026 04:04
 f388670e-b191-489e-9c2f-dde614d03602,xenophon.it,available,6.65,5.49,medium,low,8,dynadot,,,30/09/2026 03:10
+ba186645-5d81-4f41-b483-9c287dd3941b,spasm.it,available,6.64,5.48,high,low,5,dynadot,,,01/10/2026 19:07
 eb39c4b6-ee4a-485e-ab1a-5524d2be6f2a,lettres.it,available,6.66,5.5,medium,low,7,dynadot,,,29/09/2026 05:30
 d9a00c2b-c6bc-426d-9ef6-94dfe8bf8907,styler.it,resell,,,high,high,6,,24/12/2020 16:00,13/12/2026 00:00,26/09/2026 09:22
 7654b9b2-ab2b-40b6-947a-e9d7a2875a94,burgoyne.it,available,6.65,5.49,medium,low,8,dynadot,,,30/09/2026 16:31
@@ -391,7 +412,9 @@ ebbf5e57-3e93-4159-8702-0da16ac02ad2,larval.it,available,25.99,25.99,medium,low,
 815aa2fb-3489-4003-9136-c147e6c54a20,jamie.it,resell,,,high,low,5,,26/12/2016 16:00,26/12/2026 00:00,26/09/2026 06:59
 892a3162-2037-446b-91ab-5c6283a7eff7,flexile.it,available,25.99,25.99,medium,low,7,name.com,,,18/08/2026 08:06
 9b91df57-ca81-4573-bfb7-be0cedf211db,tunnel.it,resell,,,high,low,6,,11/02/2019 09:00,11/02/2027 00:00,26/09/2026 09:48
+50eae830-ebaf-464c-9a4f-74ca98f1d3e1,exceedingly.it,available,6.64,5.48,medium,low,11,dynadot,,,01/10/2026 14:31
 0d2145b3-42f7-4e8e-bb34-33726ce5e2a4,upstart.it,resell,,,high,low,7,,03/02/2020 09:00,27/01/2027 00:00,26/09/2026 09:54
+dd6a80d7-2508-49f5-8c77-f75e1b3ea6b7,ridgewood.it,available,6.64,5.48,medium,low,9,dynadot,,,02/10/2026 00:31
 4f106bad-3c3f-4762-ab17-317acb38af0a,ghostlike.it,available,25.99,25.99,medium,low,9,name.com,,,06/08/2026 05:23
 d783036b-1ae4-4226-8f99-849c9fafafda,berlin.it,resell,,,high,medium,6,,14/01/2010 08:09,21/01/2027 00:00,29/09/2026 02:06
 393ddc67-3057-429b-8c5f-9d5a763c5f25,fantasies.it,available,6.67,5.51,medium,low,9,dynadot,,,28/09/2026 23:52
@@ -408,6 +431,7 @@ c3dbd5d7-5512-4ab7-b2e8-4b567e5ddb12,stroppy.it,available,25.99,25.99,medium,low
 8b8e244d-aca3-4a8e-a58c-fa463192bdc1,dilated.it,available,6.65,5.49,low,low,7,dynadot,,,30/09/2026 15:07
 718289e5-ca63-487e-82bf-70e618a270bf,stockton.it,available,25.99,25.99,high,low,8,name.com,,,25/09/2026 06:10
 aab12b6a-12d8-4f18-a8e9-8a91059e96ed,ingenuous.it,available,25.99,25.99,medium,low,9,name.com,,,06/08/2026 23:41
+abc99e81-a4fe-45e0-be77-ac8ad9ef116a,braithwaite.it,available,6.64,5.48,medium,low,11,dynadot,,,02/10/2026 00:44
 16e18670-3aea-4787-9d3f-c77cebcd6da7,bin.it,resell,,,high,low,3,,17/09/2007 13:05,25/07/2027 00:00,26/09/2026 04:25
 8692b753-710e-493f-8ece-62f357959819,kerala.it,resell,,,medium,low,6,,,,28/09/2026 16:15
 0a04f78c-892c-454c-8b87-184084a6dc24,barber.it,resell,,,high,low,6,,14/09/2023 09:00,08/09/2027 00:00,29/09/2026 01:08
@@ -432,8 +456,10 @@ b1689570-ab62-4449-8ee2-8f778a59585f,ecuadorian.it,available,25.99,25.99,high,lo
 bef2338f-b9a5-4ee6-afca-08cae6cb75b4,diminished.it,available,25.99,25.99,medium,low,10,name.com,,,07/08/2026 15:00
 cec9f705-c505-4c51-bc49-5ddc719c79fe,consul.it,resell,,,high,low,6,,30/11/2014 09:00,30/11/2026 00:00,26/09/2026 05:13
 c7b36438-61cb-4737-8cde-7a9c575c59a2,gluttonous.it,available,25.99,25.99,medium,low,10,name.com,,,20/08/2026 15:32
+57d83ef6-f095-4c54-aefd-37ca1a9c6cf4,shipowner.it,available,6.64,5.48,medium,low,9,dynadot,,,01/10/2026 21:39
 983473ed-ba3b-432d-931c-d4b0e51d7d24,admitting.it,available,6.67,5.51,medium,low,9,dynadot,,,28/09/2026 20:58
 cc6b999e-2ff0-4d0f-b987-0e3b0b3b2f92,plentiful.it,available,25.99,25.99,high,low,9,name.com,,,27/09/2026 04:16
+f2f27096-e8f6-461f-bac0-59988434a165,inhalation.it,available,6.64,5.48,medium,low,10,dynadot,,,01/10/2026 18:49
 df44602a-dbd8-4dbf-bbcc-967fb4bcb0b7,cuttable.it,available,25.99,25.99,medium,low,8,name.com,,,12/08/2026 04:30
 02e0c529-d6e3-476e-9686-630d7698ce81,avestan.it,available,25.99,25.99,medium,low,7,name.com,,,07/08/2026 23:07
 86bc077d-3696-491f-8259-143356756516,chimeric.it,available,25.99,25.99,medium,low,8,name.com,,,12/08/2026 05:37
@@ -451,6 +477,7 @@ df5e8fe5-417e-43e5-8a78-a66122fbd230,spaniards.it,available,6.65,5.49,medium,low
 12a85ce8-20bd-4ca7-a2f1-19e1296342a4,dimorphic.it,available,25.99,25.99,medium,low,9,name.com,,,14/08/2026 08:09
 33768e42-fa83-46da-a922-b47e934ae704,flank.it,resell,,,medium,low,5,,,,28/09/2026 19:13
 5f29f8da-0585-425f-a175-43635e641ce3,townshend.it,available,6.66,5.5,medium,low,9,dynadot,,,29/09/2026 04:20
+a27b6032-3c8f-4f3e-aa03-7bd9f8da7919,nhtsa.it,available,6.64,5.48,medium,low,5,dynadot,,,01/10/2026 07:59
 a558c758-2fc9-44c1-959a-f481d07c8585,insolvent.it,available,25.99,25.99,medium,low,9,name.com,,,08/08/2026 13:34
 13a5fb20-d4e2-4137-ab94-432fe89e3459,isomorphic.it,resell,,,high,low,10,,21/01/2026 10:38,21/01/2027 00:00,26/09/2026 06:58
 cd069120-0528-4bd9-86f2-23e84b66d86c,insults.it,available,6.66,5.5,low,low,7,dynadot,,,29/09/2026 11:09
@@ -461,6 +488,7 @@ a96abb4f-64e7-4b12-ad0c-19bb7df52e89,extraction.it,available,6.66,5.5,high,low,1
 b4a88a7d-b37f-4874-8f56-1ecf47f88aad,algometric.it,available,25.99,25.99,medium,low,10,name.com,,,
 a815a692-3eac-4ec2-8c64-49c055971675,equip.it,resell,,,high,high,5,,24/04/2025 16:00,16/04/2027 00:00,26/09/2026 05:52
 d37569f9-9eec-4955-b9d6-1ca9e6cb50e6,catalog.it,resell,,,high,low,7,,13/09/2007 16:34,13/09/2027 00:00,29/09/2026 04:35
+9bd09617-b0ea-4a2f-a270-b4f9a48659a8,gunnison.it,available,6.64,5.48,medium,low,8,dynadot,,,01/10/2026 12:09
 5fb5f9ec-8597-4e66-bce9-cea974be1079,getable.it,available,25.99,25.99,medium,low,7,name.com,,,18/08/2026 23:04
 a42e1543-db4e-40d5-98ae-715ac9efc575,hueless.it,available,25.99,25.99,medium,low,7,name.com,,,21/08/2026 14:36
 677f3ae1-b233-418b-b6a0-35cfadf20b79,dedicate.it,resell,,,high,low,8,,11/04/2014 09:00,11/04/2027 00:00,30/09/2026 18:29
@@ -472,6 +500,8 @@ f1c76988-7954-4ebd-bacf-e45d62e184f0,viacom.it,resell,,,high,low,6,,,,30/09/2026
 f9b9f9d8-017a-45b6-8d59-cab26b3f5397,robe.it,resell,,,high,low,4,,30/03/2014 09:00,30/03/2027 00:00,28/09/2026 06:41
 a71121d5-7cd9-4f09-9671-985a420f90f9,detached.it,premium,25.99,25.99,high,low,8,name.com,,,
 b8e90da5-e8e6-4c01-ad88-d05b26a0db61,hapless.it,available,25.99,25.99,medium,low,7,name.com,,,20/08/2026 23:48
+c5ec0220-70d2-4762-baa6-8253a3aaa2d1,salam.it,resell,,,high,low,5,,,,01/10/2026 22:51
+6cd34bed-778a-4510-b4a7-a86a53df00a0,weirs.it,available,6.59,5.44,medium,low,5,dynadot,,,02/10/2026 03:06
 2da8a781-743e-4255-bee1-7b385252e0bf,exporter.it,resell,,,high,high,8,,11/05/2026 17:12,11/05/2027 00:00,26/09/2026 05:58
 bb83c7f4-afe1-453e-9c72-b8d4538f2ebe,tomboyish.it,available,25.99,25.99,medium,low,9,name.com,,,21/08/2026 14:32
 48af2e30-120c-4895-b6a1-3645579d4818,dysgenic.it,available,25.99,25.99,low,low,8,name.com,,,11/08/2026 12:30
@@ -497,6 +527,7 @@ c8b85626-09a7-41b0-b850-3882fd0132bf,turing.it,resell,,,high,low,6,,17/08/2011 0
 8d44fa47-6935-4c9f-9fce-24b082cb793b,lenny.it,resell,,,medium,low,5,,,,28/09/2026 18:21
 aa7f16f9-e1e7-4f21-a1dc-c012e1c36321,speakeasy.it,resell,,,high,high,9,,10/02/2026 09:00,10/02/2027 00:00,26/09/2026 09:11
 d85714df-3d51-4e9f-8cff-eb9e724dcd73,built.it,resell,,,high,low,5,,02/11/2015 09:00,25/11/2026 00:00,26/09/2026 04:40
+8e5587d2-3fdf-4b0a-85ae-e9947c372d4a,bbb.it,resell,,,high,low,3,,,,01/10/2026 23:02
 09339ae8-0edf-4560-af94-6aed11c90528,nietzsche.it,resell,,,medium,low,9,,,,30/09/2026 17:24
 50f73933-6912-4af5-bafd-71a1d2b72ab3,auntie.it,available,25.99,25.99,high,low,6,name.com,,,21/09/2026 04:11
 fa2fec9a-7bfc-4ad3-91c4-7923db872951,turku.it,available,6.65,5.49,medium,low,5,dynadot,,,30/09/2026 20:48
@@ -508,6 +539,7 @@ fa2fec9a-7bfc-4ad3-91c4-7923db872951,turku.it,available,6.65,5.49,medium,low,5,d
 fd14f930-fa60-4e17-8f17-62812316e899,suction.it,available,6.66,5.5,medium,low,7,dynadot,,,29/09/2026 14:01
 eb423ac3-018a-458b-b2c8-8c0fe5823925,abdul.it,resell,,,medium,low,5,,09/06/2025 16:00,09/06/2027 00:00,27/09/2026 07:21
 465f9e53-fee3-499e-9d20-f88a51251a41,earlyish.it,available,25.99,25.99,medium,low,8,name.com,,,14/08/2026 22:29
+61280508-09e0-435a-b3a9-7518098b70ee,bagged.it,resell,,,medium,low,6,,,,01/10/2026 17:21
 c0716511-8269-4936-8b59-2f99de585f67,sleeper.it,resell,,,medium,low,7,,16/07/2013 16:00,09/08/2027 00:00,29/09/2026 06:29
 047ab3a8-2b99-4cdd-bf92-3d0f60e9a8a6,scouts.it,resell,,,high,low,6,,,,28/09/2026 04:05
 019c58b7-dab9-4953-8382-967c5387b92a,kitts.it,available,6.66,5.5,medium,low,5,dynadot,,,29/09/2026 09:58
@@ -515,7 +547,8 @@ ef8b4bfd-9952-4613-90e2-b42d394ccf3a,heroism.it,available,6.66,5.5,high,low,7,dy
 9524d6ab-f1e3-43d1-92e7-3123c4bcc737,sluttish.it,available,25.99,25.99,medium,low,8,name.com,,,10/08/2026 15:45
 615f6598-d328-4886-a4fc-b1714f4aa802,goes.it,resell,,,high,low,4,,28/11/2012 23:59,09/12/2026 00:00,26/09/2026 06:25
 67eff766-c0f0-4b7a-b00d-b17d117d6612,anionic.it,available,25.99,25.99,medium,low,7,name.com,,,
-e0f7663e-fe86-469a-afa5-70adfda5bb68,undress.it,resell,,,high,high,7,,25/01/2025 09:00,25/01/2027 00:00,26/09/2026 09:51
+e0f7663e-fe86-469a-afa5-70adfda5bb68,undress.it,resell,,,high,low,7,,25/01/2025 09:00,25/01/2027 00:00,02/10/2026 06:36
+33189477-84fa-4298-a79e-03373a01e857,elmhurst.it,available,6.59,5.44,medium,low,8,dynadot,,,02/10/2026 01:13
 c5080ae6-0a2d-4298-ad5b-a3ceefb101ac,upwards.it,available,6.67,5.51,medium,low,7,dynadot,,,28/09/2026 09:52
 7c5bb657-7241-4c4a-a05b-aaf22b70750e,bind.it,resell,,,high,low,4,,04/09/2019 16:00,29/08/2027 00:00,26/09/2026 04:25
 194d2b23-441a-4f17-8399-303d2c90db4d,elect.it,resell,,,high,low,5,,14/02/2000 00:00,02/02/2027 00:00,26/09/2026 05:47
@@ -556,6 +589,8 @@ abf9961c-b50d-401c-9176-1cab0a6f54ef,manque.it,available,25.99,25.99,medium,low,
 506253ee-7282-4b53-845a-bfdf2828d5d0,micron.it,resell,,,high,high,6,,19/07/2018 16:00,12/07/2027 00:00,26/09/2026 07:32
 62469a07-c582-4834-86d8-6ba3e10f82ff,vowels.it,available,25.99,25.99,medium,low,6,name.com,,,20/09/2026 00:07
 3aa41f53-e6af-4d9f-b18f-77663540d793,peel.it,resell,,,high,low,4,,17/06/2026 09:00,17/06/2027 00:00,30/09/2026 06:31
+7c363662-22c7-4b57-b61a-23eb5a202b07,sawmill.it,available,6.59,5.44,high,low,7,dynadot,,,02/10/2026 05:40
+04b42a0d-5e33-4b97-b4fd-41502bea1489,exaggeration.it,available,6.59,5.44,medium,low,12,dynadot,,,02/10/2026 01:28
 96d9ea0b-9714-44b3-8e82-a6e839865688,beechwood.it,available,25.99,25.99,medium,low,9,name.com,,,23/09/2026 00:14
 cf703650-02fc-4e47-9d7a-7174c752692f,cosigner.it,available,25.99,25.99,medium,low,8,name.com,,,13/08/2026 02:49
 8a19ad7b-b174-4f6b-843a-1912de1fb3dc,adoptive.it,available,25.99,25.99,high,low,8,name.com,,,
@@ -581,6 +616,7 @@ f12ed160-275e-435f-82b6-6f7a15575184,acetous.it,available,25.99,25.99,medium,low
 45f82a7b-4ffa-43f9-acc3-3374011a2087,undermine.it,available,6.66,5.5,medium,low,9,dynadot,,,29/09/2026 06:16
 4692082b-e9eb-43fe-82d9-f19c18e24129,constellation.it,resell,,,high,low,13,,,,29/09/2026 20:52
 ddcb29bf-ad9f-4a8c-9617-897763edcfc5,allegany.it,available,6.65,5.49,medium,low,8,dynadot,,,30/09/2026 22:05
+aa3e1344-cc9e-4e97-b9d5-ac0065776aef,schoolboy.it,available,6.59,5.44,medium,low,9,dynadot,,,02/10/2026 06:20
 2561a35e-6cb2-4b80-af68-0829c6d12912,abatic.it,available,25.99,25.99,medium,low,6,name.com,,,
 0a696faf-f785-422b-b28e-afcab8a6356d,barefaced.it,available,25.99,25.99,medium,low,9,name.com,,,08/08/2026 09:20
 6c89721b-4a30-4621-b688-39b06f0dda6c,cementing.it,resell,,,medium,low,9,,,,30/09/2026 07:44
@@ -589,14 +625,17 @@ ddcb29bf-ad9f-4a8c-9617-897763edcfc5,allegany.it,available,6.65,5.49,medium,low,
 ac95dc51-afbe-4ce0-a42a-a24790611d64,stimuli.it,available,6.65,5.49,medium,low,7,dynadot,,,30/09/2026 23:20
 7c76aa6a-db3f-4384-b06b-ac9d2c0c145c,fish.it,resell,,,high,low,4,,16/05/2016 16:00,16/05/2027 00:00,29/09/2026 19:28
 99d1884a-bd36-48bf-a2f1-147ba19ac7d0,skaters.it,resell,,,high,low,7,,27/03/2013 03:15,27/03/2027 00:00,26/09/2026 09:03
-75000fc0-42d4-45c1-9f43-63a86cdc62ca,jnr.it,resell,,,high,high,3,,29/06/2007 09:58,29/06/2027 00:00,26/09/2026 07:00
+0a253b85-8f72-4998-9d4c-4e0f2a7eabfc,maneuvering.it,available,6.64,5.48,high,low,11,dynadot,,,01/10/2026 23:02
+75000fc0-42d4-45c1-9f43-63a86cdc62ca,jnr.it,resell,,,high,low,3,,29/06/2007 09:58,29/06/2027 00:00,01/10/2026 20:09
 9f299d02-ba5d-414a-b8d4-f48a59d06395,bezique.it,available,25.99,25.99,medium,low,7,name.com,,,23/09/2026 12:24
 da8b274d-d73f-47b4-8cfe-d12186ac92a2,testified.it,available,6.67,5.51,medium,low,9,dynadot,,,28/09/2026 18:16
 7e9c5f8a-51bb-4e7b-a3ca-882d7c56528f,chatoyant.it,available,25.99,25.99,medium,low,9,name.com,,,12/08/2026 03:13
 7aee125e-262a-4141-8d10-c306a1c18f9f,fallible.it,available,25.99,25.99,medium,low,8,name.com,,,17/08/2026 21:30
+1073bf9b-c742-4841-be27-f67128bedee2,whooping.it,available,6.64,5.48,medium,low,8,dynadot,,,01/10/2026 22:49
 31064cab-a1ef-401d-9337-98cd40fd71d7,prize.it,resell,,,high,low,5,,14/02/2000 00:00,05/02/2027 00:00,26/09/2026 08:20
 b904d0b5-44fc-4832-9ca8-475cc4dbf809,ovarian.it,available,25.99,25.99,medium,low,7,name.com,,,04/09/2026 19:55
-2075c051-dd3a-49b1-ae9c-0604fcf476f8,display.it,resell,,,high,low,7,,23/01/2016 09:00,14/01/2027 00:00,28/09/2026 12:59
+2075c051-dd3a-49b1-ae9c-0604fcf476f8,display.it,resell,,,high,low,7,,23/01/2016 09:00,14/01/2027 00:00,01/10/2026 21:16
+f9434767-6917-4dad-a6a8-39a2c1effe6c,gazing.it,available,6.64,5.48,high,low,6,dynadot,,,01/10/2026 22:38
 5bce9a82-8aa8-4cf0-93e3-1334db59ef8b,reshuffle.it,resell,,,high,high,9,,29/11/2021 19:13,29/11/2026 00:00,26/09/2026 08:37
 cf17a904-1bba-48b4-92fb-71e5d300f032,attempted.it,available,25.99,25.99,medium,low,9,name.com,,,07/08/2026 15:12
 f65b5039-8414-45fc-ac8c-616c58676e98,purposive.it,available,25.99,25.99,high,low,9,name.com,,,20/08/2026 15:51
@@ -608,6 +647,7 @@ d47bb027-5816-4aa8-9137-8c62a6041a4a,reveal.it,resell,,,high,low,6,,19/12/2013 1
 838bd0df-8a53-4a89-a9c8-240cc7d91d8b,rakish.it,available,25.99,25.99,high,low,6,name.com,,,13/08/2026 17:34
 a0f160c8-f205-4e45-8043-8e150f41379a,masturbation.it,available,6.65,5.49,medium,low,12,dynadot,,,30/09/2026 14:21
 71a5a007-015d-40a6-baf2-90f716aff6ff,clannish.it,available,25.99,25.99,medium,low,8,name.com,,,12/08/2026 09:35
+0a1ae1c2-1807-45c4-a24e-326cc9854bb5,formulation.it,available,6.64,5.48,high,low,11,dynadot,,,01/10/2026 13:01
 3efadd88-39e6-4fb3-9316-204b6c4dd841,erstwhile.it,available,25.99,25.99,high,low,9,name.com,,,17/08/2026 13:05
 d512d829-0f95-4800-a962-7cc841053bf0,shrewsbury.it,available,6.67,5.51,medium,low,10,dynadot,,,27/09/2026 19:32
 0ce96310-334f-4f86-bc4c-8eabe927d9c8,accursed.it,available,25.99,25.99,medium,low,8,name.com,,,
@@ -618,6 +658,7 @@ e8241a01-903e-454f-becb-7a4a09565b16,hyalin.it,available,25.99,25.99,medium,low,
 6050d440-a910-4ab4-9412-1c17aae341a1,vitiate.it,available,25.99,25.99,medium,low,7,name.com,,,13/08/2026 02:22
 b1b55eb7-238f-4f1e-a4a2-df172b3c3487,blanched.it,available,25.99,25.99,medium,low,8,name.com,,,07/08/2026 02:14
 7b22c303-5b97-4300-bf86-53a380aa9468,dawdling.it,available,25.99,25.99,medium,low,8,name.com,,,11/09/2026 19:40
+022068b5-3984-4d11-b158-7a4bb7381dd8,litton.it,available,6.64,5.48,medium,low,6,dynadot,,,02/10/2026 00:54
 14317ef4-552d-4caa-94e2-14ada852fa74,dictatorship.it,available,6.66,5.5,medium,low,12,dynadot,,,29/09/2026 14:18
 31386e6d-14a9-48f9-8757-55f7d5a1616b,eject.it,resell,,,medium,low,5,,,,01/10/2026 03:53
 ec65569a-16a1-4ed1-9b96-fd01b4d75c70,ghosh.it,available,6.66,5.5,medium,low,5,dynadot,,,29/09/2026 15:46
@@ -648,12 +689,15 @@ b190412c-699f-4711-9d45-83daf73323dd,ambushed.it,available,6.65,5.49,medium,low,
 f61f2b71-6b7a-4559-ab34-0787c2db3a9a,oberlin.it,available,6.67,5.51,medium,low,7,dynadot,,,28/09/2026 04:20
 1db0ffe8-8130-4398-90d4-93c3fb0c06b7,depleted.it,available,25.99,25.99,medium,low,8,name.com,,,14/08/2026 02:23
 2afc8a97-b2cb-4339-85ac-cb6a8fbbbd7c,hmu.it,resell,,,high,medium,3,,27/06/2007 14:59,27/06/2027 00:00,26/09/2026 06:41
-b0758421-bc5d-4bfa-bddc-baad7817e337,somesing.it,available,25.99,,medium,low,8,name.com,,,
+b0758421-bc5d-4bfa-bddc-baad7817e337,somesing.it,available,6.59,5.44,medium,low,8,dynadot,,,02/10/2026 06:02
 da0f3346-ebde-45b2-a467-8beae21ec58b,recondite.it,available,25.99,25.99,medium,low,9,name.com,,,
+66b31074-5800-42d9-943b-51d508549862,sweaty.it,available,6.64,5.48,medium,low,6,dynadot,,,01/10/2026 22:22
 df5c3723-151c-4c1c-9cf4-35d612959715,grayish.it,available,25.99,25.99,medium,low,7,name.com,,,20/08/2026 18:56
 2bbb2f84-3026-4f0f-b85a-af95cd209adb,correlated.it,resell,,,high,low,10,,14/03/2026 10:49,14/03/2027 00:00,26/09/2026 05:16
 0bf1f78f-b34d-4729-882a-09822bb61989,ignoble.it,available,25.99,25.99,medium,low,7,name.com,,,21/08/2026 18:23
+755dbebc-ffbb-474f-8fea-b77c8982f63c,msp.it,resell,,,high,low,3,,,,01/10/2026 08:08
 b1f47a04-a647-4fed-a320-64cff3d7c409,exposure.it,resell,,,high,low,8,,20/02/2016 16:00,20/02/2027 00:00,26/09/2026 05:58
+f31eeeee-bfa7-4a94-be89-ae5fa1f628e1,feminists.it,available,6.59,5.44,medium,low,9,dynadot,,,02/10/2026 03:19
 d5ba986e-c865-4075-96c8-09b61197cc37,sourced.it,resell,,,high,high,7,,04/01/2014 09:00,10/02/2027 00:00,26/09/2026 09:10
 0299d788-5374-44d2-adb9-5517fc4ceb02,cistercian.it,available,6.66,5.5,medium,low,10,dynadot,,,29/09/2026 18:21
 7f426bfb-c7b4-46aa-bdc8-c3e3385f656f,guile.it,available,25.99,25.99,medium,low,5,name.com,,,13/08/2026 10:41
@@ -679,6 +723,8 @@ bfaaaeeb-0fdf-451d-b7df-4f304348297c,facial.it,resell,,,high,low,6,,30/03/2011 0
 c1cc9ce8-ca34-4c75-8ae3-d8c12f2f6571,crazed.it,available,25.99,25.99,medium,low,6,name.com,,,13/08/2026 05:31
 0dede1b5-c2e7-45ed-a24a-d26865a54cd8,jailhouse.it,available,25.99,25.99,medium,low,9,name.com,,,08/09/2026 22:44
 539fc4dc-b15c-41db-bd0e-9443e92374c7,tasty.it,resell,,,high,low,5,,13/05/2025 16:00,13/05/2027 00:00,26/09/2026 09:31
+9c3a641d-5b54-456d-84ff-97d96be70908,coleoptera.it,available,6.59,5.44,medium,low,10,dynadot,,,02/10/2026 04:24
+e2dd6e72-b03a-4a21-b075-f014ec99b4fd,fainted.it,available,6.59,5.44,low,low,7,dynadot,,,02/10/2026 03:03
 06103845-6ebf-4364-8574-6fbe996b0939,lengthy.it,available,25.99,25.99,medium,low,7,name.com,,,14/08/2026 18:32
 36a4a1b4-ba1a-4492-b1ab-d6d94dbc069c,carriers.it,available,6.66,5.5,medium,low,8,dynadot,,,29/09/2026 05:47
 21c4e240-f73e-407d-9bef-d0ff5d1fcf3a,horseball.it,resell,,,high,high,9,,24/02/2012 12:23,23/02/2027 00:00,26/09/2026 06:44
@@ -689,6 +735,7 @@ a963a067-d517-4aaa-b5c1-d3c54b0a6689,clustered.it,available,25.99,25.99,medium,l
 f4e3a1e8-4ae9-4222-a21b-817b67820613,concordant.it,available,25.99,25.99,high,low,10,name.com,,,12/08/2026 20:16
 9e100124-e5e9-4381-9e50-292709423926,peckham.it,available,6.66,5.5,medium,low,7,dynadot,,,30/09/2026 00:26
 2411df47-ab6c-48d3-8ba9-0466f8887885,bettering.it,resell,,,high,low,9,,26/03/2026 12:08,26/03/2027 00:00,26/09/2026 04:23
+0da8e7fa-d83c-4bc5-9672-0338a8af5b16,extradition.it,available,6.64,5.48,medium,low,11,dynadot,,,01/10/2026 15:51
 3a62f915-f298-4110-9aa2-e9f0c93af3b6,additives.it,resell,,,medium,low,9,,08/05/2000 00:00,01/09/2025 00:00,
 bb26d520-6253-4079-8fe2-723cc22fd57c,dal.it,resell,,,high,high,5,,03/02/2000 00:00,25/01/2027 00:00,26/09/2026 05:24
 6b26f6e3-9d73-4dd4-bb13-abacb44e32db,erosive.it,available,25.99,25.99,medium,low,7,name.com,,,13/08/2026 02:09
@@ -701,6 +748,7 @@ a331f2ad-38a9-4408-9539-dd039406fe34,refactoring.it,resell,,,high,high,11,,28/12
 bc0867ec-a46a-4f48-ad45-80cd1c97a35a,coder.it,resell,,,high,high,5,,30/11/2013 09:00,30/11/2026 00:00,26/09/2026 05:04
 53ef023d-cf58-4c1e-890f-ac1b473ef32f,estonian.it,available,25.99,25.99,high,low,8,name.com,,,17/08/2026 13:27
 9528ad99-b360-4511-ba05-19681d741ac8,insouciant.it,available,25.99,25.99,medium,low,10,name.com,,,11/08/2026 20:34
+c4c91aaf-1982-410b-a87f-04cfbd0892b6,ashok.it,available,6.64,5.48,medium,low,5,dynadot,,,01/10/2026 12:17
 1ef45002-9f30-4f8b-a321-1b5dca618641,smuggled.it,premium,25.99,,medium,low,8,name.com,,,
 5f45287b-d7ce-41e8-9a57-bea2b6acfcc9,miserly.it,available,25.99,25.99,medium,low,7,name.com,,,24/08/2026 23:45
 32512b87-bb2c-4db3-9994-ecacb4b6c0b1,grueling.it,available,25.99,25.99,medium,low,8,name.com,,,06/08/2026 16:45
@@ -711,10 +759,10 @@ e9291ae7-33f4-4189-8fa8-6112a169eb3e,leakproof.it,available,25.99,25.99,medium,l
 0f161795-c0ca-49c3-8262-64217dbda1a5,fixing.it,resell,,,high,low,6,,24/01/2014 09:00,24/01/2027 00:00,26/09/2026 06:07
 c1d69e7e-ae31-4b44-8362-b807f783805f,clinched.it,available,25.99,25.99,medium,low,8,name.com,,,12/08/2026 10:46
 d1de4179-f851-43c6-a9c2-d3b6820e3485,selects.it,resell,,,medium,low,7,,08/02/2010 15:07,13/02/2026 00:00,
-c5834bb2-5f90-46eb-8278-1348b2564ae9,rudimentary.it,available,25.99,,high,low,11,name.com,,,
+c5834bb2-5f90-46eb-8278-1348b2564ae9,rudimentary.it,available,6.64,5.48,medium,low,11,dynadot,,,01/10/2026 13:29
 9972f7d3-5f33-422d-87f7-e1ed5e715877,twofold.it,available,25.99,25.99,medium,low,7,name.com,,,14/08/2026 16:39
 cce22be6-9965-4c85-bf26-833fbd96d3fe,lugubrious.it,available,25.99,25.99,medium,low,10,name.com,,,24/08/2026 11:04
-19461573-d349-4492-951c-1ce7e7ec7f7b,magic.it,resell,,,high,high,5,,21/03/2013 01:11,05/04/2027 00:00,28/09/2026 06:03
+19461573-d349-4492-951c-1ce7e7ec7f7b,magic.it,resell,,,high,high,5,,21/03/2013 01:11,05/04/2027 00:00,01/10/2026 16:00
 2c3a7c30-8ff9-4f9b-afc7-965f53561140,paniculate.it,available,25.99,25.99,medium,low,10,name.com,,,05/09/2026 01:01
 6725c5a7-eaef-414b-bf54-9c25c9275093,fluorescence.it,available,6.67,5.51,medium,low,12,dynadot,,,27/09/2026 23:02
 665e3495-194b-45d7-83dc-bad4d847e1cd,nauseous.it,available,25.99,25.99,medium,low,8,name.com,,,24/08/2026 08:24
@@ -727,6 +775,7 @@ ebb740c4-0685-4e63-b41b-9d56561a4be5,ballad.it,available,25.99,25.99,high,low,6,
 1b7d47b5-fa29-4e96-9784-f42ed32c3053,refreshment.it,available,25.99,,high,low,11,name.com,,,
 ea25962f-22c1-47a6-937a-75ec6e33e993,armenian.it,available,25.99,25.99,high,low,8,name.com,,,06/08/2026 19:39
 4df8e8bb-ec9e-4c6f-81f9-8d4609cc17cb,sheeplike.it,available,25.99,25.99,high,medium,9,name.com,,,10/09/2026 06:18
+c981c594-6a76-434a-93c7-1f3a5e4c6275,ingraham.it,available,6.64,5.48,low,low,8,dynadot,,,01/10/2026 17:00
 8495a858-46fa-4dd4-b765-8f1811c2a995,pictorials.it,available,25.99,,medium,low,10,name.com,,,
 c7ee7aaf-046f-4691-bbb2-54642d429fc2,shoddy.it,available,25.99,25.99,medium,low,6,name.com,,,12/08/2026 03:27
 73884430-4707-4f7f-a37a-7afee4fbe8a7,argentic.it,available,25.99,25.99,medium,low,8,name.com,,,06/08/2026 18:06
@@ -734,13 +783,14 @@ a63594bd-d3e2-4dbd-b4c4-97b840663fad,taoist.it,available,25.99,25.99,high,low,6,
 2434be61-9081-4a42-a39d-b209a4ba62d2,blade.it,resell,,,high,low,5,,08/09/2021 16:00,05/09/2027 00:00,26/09/2026 04:28
 08ae580f-9f3d-4134-a1bd-044291504d12,blissfully.it,resell,,,medium,low,10,,14/03/2026 10:43,14/03/2027 00:00,26/09/2026 04:29
 481d6555-aa3e-4fcf-aa0c-7709e28fcae6,baseless.it,available,25.99,25.99,medium,low,8,name.com,,,08/08/2026 21:44
+ed65076e-8a68-4007-9bf4-27f27a388197,bandages.it,available,6.64,5.48,low,low,8,dynadot,,,01/10/2026 17:46
 d67ad9cb-f35f-4b33-a9c0-a6aff5fcfc1e,antipodean.it,available,25.99,25.99,medium,low,10,name.com,,,
 88be38db-afa5-48a2-849c-1592bdfe0475,cherubic.it,available,25.99,25.99,high,low,8,name.com,,,12/08/2026 04:25
-1aae139a-f790-4cb2-b3bc-3d12848d958f,boomerang.it,resell,,,high,high,9,,08/01/2010 06:06,07/07/2027 00:00,26/09/2026 04:32
+1aae139a-f790-4cb2-b3bc-3d12848d958f,boomerang.it,resell,,,high,low,9,,08/01/2010 06:06,07/07/2027 00:00,02/10/2026 04:09
 8564072b-a96d-4cdb-9a5c-1b46a06d25b8,masted.it,available,25.99,25.99,medium,low,6,name.com,,,24/08/2026 16:45
 7f5a9af5-f378-4bcb-a74f-c9a45e39ddfd,subaltern.it,available,25.99,25.99,medium,low,9,name.com,,,22/08/2026 14:29
 5bfddad4-e140-46ed-940f-ade04872176e,amiable.it,premium,25.99,25.99,high,low,7,name.com,,,
-7b62507f-65f2-44dc-9f04-70ec014d9a34,peaking.it,available,25.99,,high,low,7,name.com,,,
+7b62507f-65f2-44dc-9f04-70ec014d9a34,peaking.it,available,6.59,5.44,high,low,7,dynadot,,,02/10/2026 02:14
 861fcea1-6da1-443d-935a-c4d97e1c25ac,acronymous.it,available,25.99,25.99,medium,low,10,name.com,,,
 5f1e047f-f3f1-49dd-a145-699d57950401,affable.it,premium,25.99,25.99,high,low,7,name.com,,,
 5ec3d028-1268-49eb-9b08-255bf0db5221,whitten.it,available,6.65,5.49,medium,low,7,dynadot,,,30/09/2026 04:15
@@ -765,6 +815,7 @@ f319aff1-126f-47b3-b048-05994499a19c,edward.it,resell,,,high,low,6,,30/05/2025 0
 828d3d24-257d-42eb-b067-8aa54277ef02,eternally.it,available,,,high,low,9,,,,
 9b87aaf6-1b10-48bc-9689-3c4d2032ea4a,baronial.it,available,25.99,25.99,medium,low,8,name.com,,,08/08/2026 20:11
 07d3564e-dec0-4828-86d9-1ac1ea36d458,synthase.it,available,6.67,5.51,medium,low,8,dynadot,,,28/09/2026 16:05
+972439a5-4e33-4d09-b516-f403663372cb,abusing.it,available,6.59,5.44,low,low,7,dynadot,,,02/10/2026 01:37
 966db6aa-3eb1-49e7-b786-ee04ab92c473,whitlock.it,available,6.65,5.49,medium,low,8,dynadot,,,30/09/2026 21:49
 fd6d065d-8cb6-40d4-ac6b-acc398345248,dentist.it,resell,,,high,low,7,,,,29/09/2026 13:59
 5b187d4f-ae12-4d38-8c78-219bf1dbcc8f,unbundle.it,resell,,,high,high,8,,08/02/2016 09:00,08/02/2027 00:00,26/09/2026 09:50
@@ -777,9 +828,11 @@ fac83758-988f-4466-aa19-bfface44554f,prefers.it,available,25.99,,medium,low,7,na
 bad9ee3b-1fc6-4c94-ac9e-b9f65d82076c,pompous.it,available,25.99,25.99,medium,low,7,name.com,,,12/08/2026 00:37
 4aee68fc-a501-4bee-a428-422d6eb9e89b,sublimed.it,available,25.99,25.99,medium,low,8,name.com,,,11/09/2026 00:03
 f54a4680-4d3e-4605-a32d-1a21b348c68f,chivalrous.it,available,25.99,25.99,high,low,10,name.com,,,12/08/2026 06:14
+9ebab652-bed1-4021-98c9-51f6e4da8335,carteret.it,available,6.64,5.48,medium,low,8,dynadot,,,01/10/2026 11:26
 80b57e66-5b34-4652-a2e7-d17b54d3d3f0,demonstration.it,available,25.99,,high,low,13,name.com,,,
 3f066dd5-b1e9-4d8f-89c4-3fb410fd2b08,solubility.it,available,6.65,5.49,medium,low,10,dynadot,,,30/09/2026 11:04
 3177be74-3577-4c54-9b8f-3653dbafb068,cadaverous.it,available,25.99,25.99,medium,low,10,name.com,,,10/08/2026 18:51
+c69275b8-bf53-414b-aee4-8c01622d9652,subspecies.it,available,6.59,5.44,medium,low,10,dynadot,,,02/10/2026 06:30
 a4b12b39-f29b-445d-bd4d-4d1a9ba8bde9,peroxide.it,available,6.64,5.48,high,low,8,dynadot,,,01/10/2026 02:39
 83233744-3d52-479d-876c-220d63773ff6,dougherty.it,available,6.67,5.51,medium,low,9,dynadot,,,28/09/2026 23:48
 dcd46104-b76a-4d95-9cce-78a381036f33,venial.it,available,25.99,25.99,medium,low,6,name.com,,,18/08/2026 12:00
@@ -803,22 +856,27 @@ b9c0ec3d-6527-4cd2-a535-f7c2af0f9998,fiendish.it,available,25.99,25.99,medium,lo
 5526cb7c-15e9-45ee-b8e4-e433ffb3c822,honoured.it,available,6.66,5.5,high,low,8,dynadot,,,29/09/2026 03:18
 fc87b0de-bf21-45f1-bfb5-78f915531a3e,gifs.it,resell,,,high,medium,4,,07/02/2022 09:00,08/02/2027 00:00,26/09/2026 06:22
 c4f40531-9c81-4feb-9ebe-ce57c72ff9ff,adversity.it,available,25.99,25.99,high,low,9,name.com,,,17/09/2026 10:54
+0d095a3f-76a0-4431-ab0c-7f73c7b736ad,clarification.it,available,6.59,5.44,medium,low,13,dynadot,,,02/10/2026 01:38
 1566e792-25b9-4398-85fd-98347d678e6b,voting.it,resell,,,high,low,6,,09/03/2026 09:00,09/03/2027 00:00,29/09/2026 00:48
 28bd97ba-205e-4c33-9208-b11f6b4350db,homologous.it,available,25.99,25.99,medium,low,10,name.com,,,21/08/2026 12:58
 44fe6363-bc9f-41e4-a6c0-bbcab37d9097,capsular.it,available,25.99,25.99,medium,low,8,name.com,,,04/09/2026 04:01
 9f78dc1f-4c88-40b0-bc6b-f3501627cda4,unevenly.it,available,25.99,25.99,medium,low,8,name.com,,,15/09/2026 22:30
 5db2daf0-c675-4843-be07-b694b84f0f0f,recondition.it,resell,,,high,high,11,,11/12/2009 10:22,11/12/2026 00:00,26/09/2026 08:32
 d0c0db84-77d9-4472-8b18-aefb282d9f62,icbm.it,available,6.65,5.49,medium,low,4,dynadot,,,30/09/2026 10:12
+133473b4-4e63-46f0-b278-3529771c7208,experimenters.it,available,6.59,5.44,medium,low,13,dynadot,,,02/10/2026 03:51
 6bde14d6-63ed-4fc7-a3ce-fbf05a10f11f,analgesic.it,available,25.99,25.99,medium,low,9,name.com,,,
 60bdb10d-5c72-4d71-920f-083610b2e68e,sephardic.it,available,6.65,5.49,medium,low,9,dynadot,,,30/09/2026 06:25
 dc402c9b-eede-4abf-ad93-e57209855a38,avoiding.it,resell,,,medium,low,8,,,,28/09/2026 03:32
 09c07842-be7e-42cd-a423-31613f1335d1,lovers.it,resell,,,high,low,6,,08/03/2000 00:00,20/02/2027 00:00,27/09/2026 02:55
 4548ae43-f854-4aae-ad99-3b0ad68dad20,cataphatic.it,available,25.99,25.99,medium,low,10,name.com,,,11/08/2026 21:04
+3350035f-7670-4e37-baaa-3178670d3c53,biologically.it,available,6.64,5.48,medium,low,12,dynadot,,,01/10/2026 14:07
 983c7aa1-45ee-4d49-a95f-9eddfe4f498c,selfdriving.it,resell,,,high,high,12,,14/01/2015 20:29,14/01/2027 00:00,26/09/2026 08:54
 72e0d15d-985c-4bf4-b7ee-33575c3f754b,multi.it,resell,,,high,high,5,,12/01/2021 09:00,12/01/2027 00:00,26/09/2026 07:41
+0d00314b-0161-4f18-aa98-74609a69c345,turret.it,available,6.64,5.48,high,low,6,dynadot,,,01/10/2026 19:53
 3d2c2070-6a58-491d-aee9-2a32dcd42d90,performance.it,resell,,,high,low,11,,14/01/2011 04:04,15/05/2027 00:00,26/09/2026 08:06
 45641b8e-5fc1-4c5a-aea4-b0e3c2b03f9b,redeem.it,resell,,,high,low,6,,07/02/2022 09:00,01/02/2027 00:00,30/09/2026 02:39
 c42ff8c9-59ac-49fb-8f87-e87b9e88b3e2,untrue.it,premium,25.99,,medium,low,6,name.com,,,
+ccfe4762-0d63-4597-bd1f-bf4ec9f2e67e,circulated.it,available,6.59,5.44,medium,low,10,dynadot,,,02/10/2026 03:37
 46125a76-338a-4bbf-ab72-eeac642f0ec7,acold.it,available,25.99,25.99,medium,low,5,name.com,,,
 ffaac9e8-94aa-468d-8266-09f380b576ec,compression.it,available,6.66,5.5,high,low,11,dynadot,,,29/09/2026 04:39
 5b703e91-e1c7-45b0-9bcd-33f9327329d5,attained.it,available,25.99,25.99,medium,low,8,name.com,,,07/08/2026 15:07
@@ -828,12 +886,13 @@ afa7fcf9-f0b6-4782-972f-f206f2dbddb1,supplying.it,available,6.65,5.49,high,low,9
 9a1b03f2-2fd8-4d21-a7ed-562bf3052458,abiding.it,premium,25.99,25.99,high,low,7,name.com,,,
 117db83e-4907-4ffd-8cd0-af3285744924,screensavers.it,resell,,,medium,low,12,,10/01/2002 00:00,04/09/2027 00:00,26/09/2026 08:52
 e446022e-2f6a-4e61-9caa-27af2cacc86b,visceral.it,available,25.99,25.99,medium,low,8,name.com,,,10/09/2026 16:02
-c1871efd-6694-4409-8bcf-d2d8a7091210,campaigning.it,available,25.99,,high,low,11,name.com,,,
+c1871efd-6694-4409-8bcf-d2d8a7091210,campaigning.it,available,6.64,5.48,high,low,11,dynadot,,,01/10/2026 23:43
 42b9159d-572a-4fd6-bad3-64d9a5e73986,marched.it,available,6.66,5.5,medium,low,7,dynadot,,,29/09/2026 10:58
 f2cc8e05-a517-4825-aded-18ff0696d927,flattering.it,available,25.99,25.99,high,low,10,name.com,,,18/08/2026 06:57
 b495427a-dd06-42dc-9264-7773a5b2e707,knotty.it,available,25.99,25.99,medium,low,6,name.com,,,08/08/2026 08:12
 c573fab2-8694-4796-ab87-f798ca1d7e17,cumbersome.it,available,25.99,25.99,medium,low,10,name.com,,,13/08/2026 10:25
 9f80648f-4f31-4f59-aec7-4e6916aeb71d,confidant.it,resell,,,high,low,9,,27/04/2026 19:55,27/04/2027 00:00,26/09/2026 05:11
+45e93783-8738-4198-860b-91bef04edec3,depicting.it,available,6.59,5.44,high,low,9,dynadot,,,02/10/2026 04:34
 5536ab74-2f55-4a1f-b86b-6b15dd372bd2,stippled.it,available,25.99,25.99,medium,low,8,name.com,,,14/08/2026 16:36
 c1a1d3c5-c1c5-405c-8c02-2a66e723e290,arrays.it,available,25.99,,medium,low,6,name.com,,,
 ec448401-11be-49ae-8d7e-fc4b79425462,dismissal.it,available,6.66,5.5,high,low,9,dynadot,,,29/09/2026 15:57
@@ -844,6 +903,7 @@ ea5bee66-a8d7-4068-9f1b-ce5009a9e4f9,toying.it,available,6.66,5.5,medium,low,6,d
 fa42ca9b-be1f-448a-99b6-4d68cef41cb0,achaean.it,available,25.99,25.99,medium,low,7,name.com,,,
 47151b6f-fa70-4e44-b993-83ac08fc934e,flavorous.it,available,25.99,25.99,high,low,9,name.com,,,18/08/2026 07:08
 d7ca5c00-96aa-4cef-a53e-61d6cbd730a7,comrade.it,available,6.67,5.51,high,low,7,dynadot,,,28/09/2026 13:44
+f6122a13-f44b-49d4-9e5e-1503a44bcb08,presumption.it,available,6.64,5.48,medium,low,11,dynadot,,,01/10/2026 15:05
 2c2d686e-b3c1-4ed9-940f-a2a5d243b90b,wrists.it,available,25.99,,medium,low,6,name.com,,,
 f81da571-9e1a-441b-aa08-600ecb76e468,apportionment.it,resell,,,high,high,13,,17/06/2013 21:24,05/10/2025 00:00,
 974f06da-e1f0-43c2-8d37-ae7429af5494,adoring.it,premium,25.99,,high,low,7,name.com,,,
@@ -854,8 +914,9 @@ b3f645e7-35f4-4471-a0f6-e6e33bae5195,downes.it,available,6.65,5.49,medium,low,6,
 df8ed3c6-cef0-42ea-b7ac-1ec3433a3509,prophet.it,resell,,,high,low,7,,,,28/09/2026 02:52
 8c88f951-8635-4361-90e2-c20642e251c1,deo.it,resell,,,high,low,3,,,,29/09/2026 23:45
 db260d92-cacb-44b8-b1d3-22de3bbc97b4,macomb.it,available,6.65,5.49,medium,low,6,dynadot,,,30/09/2026 05:38
-7746e4e0-f6fb-4cb5-9b1e-dbee6bed21ec,his.it,resell,,,high,low,3,,01/12/2024 16:00,01/12/2026 00:00,26/09/2026 06:40
+7746e4e0-f6fb-4cb5-9b1e-dbee6bed21ec,his.it,resell,,,high,low,3,,01/12/2024 16:00,01/12/2026 00:00,01/10/2026 11:33
 d7c7ef92-1863-4406-8745-ee962b2c0db6,approximately.it,available,25.99,25.99,medium,low,13,name.com,,,27/09/2026 08:28
+b9b34f73-8f29-4ea8-9718-9cee8a6b836c,curiae.it,available,6.64,5.48,low,low,6,dynadot,,,01/10/2026 17:28
 d516cad9-2037-4de0-99c8-a82951b091f9,spellbound.it,available,25.99,25.99,high,low,10,name.com,,,17/08/2026 22:54
 d77dd0c1-725a-4c42-9056-336d93d9f294,cacophony.it,available,25.99,25.99,medium,low,9,name.com,,,10/08/2026 13:13
 6d5042e4-60b0-498d-a5e4-324ece87b4ee,willamette.it,available,6.67,5.51,medium,low,10,dynadot,,,27/09/2026 16:20
@@ -883,6 +944,8 @@ d67c5783-5e1d-4dac-a967-5269faa18e2c,coptic.it,available,25.99,25.99,high,low,6,
 2a85086a-64e9-4a78-9795-c106fc2f6727,wastebin.it,available,25.99,25.99,medium,low,8,name.com,,,20/09/2026 13:38
 c6ded4e4-d4b4-43cc-84a5-a6cf34ada056,agnostical.it,available,25.99,25.99,medium,low,10,name.com,,,
 578ce000-c4eb-425e-ab29-86534fd0dc58,triclinic.it,available,25.99,25.99,medium,low,9,name.com,,,
+bb0db548-7092-4eb9-82c7-391af375ad1d,sherrill.it,available,6.64,5.48,medium,low,8,dynadot,,,02/10/2026 00:53
+381c3465-8d46-4026-b30e-5f069a99273b,andrus.it,available,6.59,5.44,medium,low,6,dynadot,,,02/10/2026 01:31
 5570134f-9954-473f-b182-aa88f9f68001,moribund.it,available,25.99,25.99,medium,low,8,name.com,,,25/08/2026 06:31
 f75808f0-754d-4740-8c88-91d24ae20734,monstrous.it,available,25.99,25.99,medium,low,9,name.com,,,07/08/2026 14:47
 e35de48e-8a83-4656-bbe9-b9b5b7f0ef8b,implanted.it,available,25.99,25.99,medium,low,9,name.com,,,13/08/2026 22:47
@@ -899,9 +962,11 @@ cd9391fd-fc14-422b-8eb5-2d7f78dbeed7,pianoforte.it,resell,,,high,medium,10,,29/1
 6dfdc21e-e890-45c0-b055-213feb39e7db,toxins.it,available,6.65,5.49,low,low,6,dynadot,,,30/09/2026 22:52
 b9c4bb09-0256-45c4-bf41-9c9a62f978a7,rick.it,resell,,,medium,low,4,,,,30/09/2026 01:11
 db509af4-eba2-4d5a-a7f8-f96f15ba7abb,vies.it,resell,,,high,medium,4,,03/07/2024 09:00,25/06/2027 00:00,26/09/2026 09:59
+1203db8f-9f40-4980-82ff-d767f459e514,cyanobacteria.it,available,6.59,5.44,medium,low,13,dynadot,,,02/10/2026 02:08
 fd210c03-4d20-47fa-8467-cb81d2cc8d5e,sotho.it,available,25.99,25.99,high,low,5,name.com,,,10/09/2026 14:39
 1ccfc2c1-9e31-4b36-bac0-db2440b6d2e5,empathetic.it,available,25.99,25.99,high,low,10,name.com,,,16/08/2026 16:43
 f0e7aa36-de65-4da5-9acd-95b454e20217,adiabatic.it,available,25.99,25.99,medium,low,9,name.com,,,
+f62c8e1b-ecc7-41a7-8f15-7bbc802c9e0d,dimensionless.it,available,6.59,5.44,medium,low,13,dynadot,,,02/10/2026 01:27
 8e1430e4-abb1-4c10-8539-be637a73f28b,multiplex.it,resell,,,high,low,9,,07/12/2006 00:00,12/12/2025 00:00,
 dee4b85a-5bb3-439f-8eb3-f490ddeccdab,kmt.it,resell,,,medium,low,3,,,,29/09/2026 22:33
 cd7965ae-89f1-46e2-b7e1-15a486ca407c,kurdish.it,available,25.99,25.99,high,low,7,name.com,,,22/08/2026 17:04
@@ -917,6 +982,7 @@ c24ef5ce-b609-497d-9f31-7ac2c8467a68,chaste.it,available,25.99,25.99,high,low,6,
 4f0052fa-adc1-49fd-b598-6a9e1fdeff70,stalin.it,resell,,,medium,low,6,,,,29/09/2026 13:10
 644989fd-42fd-4d03-9c49-4ffd8d3f8ec1,stature.it,available,6.66,5.5,high,low,7,dynadot,,,29/09/2026 08:08
 517dc42a-a0c6-43ff-97ba-29dfae107c03,malthusian.it,available,25.99,25.99,medium,low,10,name.com,,,24/08/2026 14:17
+19029a30-2919-4efe-ae8b-3750610c1ec9,ntsb.it,available,6.64,5.48,medium,low,4,dynadot,,,01/10/2026 07:49
 efa81be4-c720-4a3a-9095-65a27fb6f005,illicit.it,available,25.99,25.99,medium,low,7,name.com,,,21/08/2026 19:50
 75cbe481-bf86-410b-a5b2-9dfa80583641,colleagues.it,available,25.99,,medium,low,10,name.com,,,
 c63b5559-1708-4ac7-ada1-e86912f94816,robberies.it,available,6.65,5.49,low,low,9,dynadot,,,30/09/2026 07:24
@@ -925,77 +991,11 @@ c63b5559-1708-4ac7-ada1-e86912f94816,robberies.it,available,6.65,5.49,low,low,9,
 7eec2524-c69e-49c0-b5b5-43134a90ac82,thawing.it,available,25.99,25.99,medium,low,7,name.com,,,24/08/2026 19:47
 f1870439-8cb8-4ab3-a7da-2a3b6419219f,alleged.it,premium,25.99,,high,low,7,name.com,,,
 12c826b8-de91-4881-a4a9-fb916403171b,glanced.it,available,25.99,25.99,medium,low,7,name.com,,,18/09/2026 01:59
+90e07a50-6e54-4099-b545-1c807e88c415,kirwan.it,available,6.59,5.44,medium,low,6,dynadot,,,02/10/2026 02:04
 12b6fa1f-ba0e-4d51-9f67-36cbceef9a69,violins.it,resell,,,high,medium,7,,23/11/2022 16:00,25/11/2026 00:00,26/09/2026 09:59
-aaab8b5e-6a99-48e1-82cf-6fda5f8ccfa1,adorables.it,available,25.99,,high,low,9,name.com,,,
+aaab8b5e-6a99-48e1-82cf-6fda5f8ccfa1,adorables.it,available,6.59,5.44,high,low,9,dynadot,,,02/10/2026 03:03
 0edd8c5a-c971-47d7-b995-d73e57d05e5b,goofproof.it,available,25.99,25.99,medium,low,9,name.com,,,18/08/2026 10:41
 57c1ecda-25b8-47f7-90d8-fbb6be59be30,hangzhou.it,resell,,,high,low,8,,08/07/2024 11:47,09/07/2027 00:00,30/09/2026 17:32
+f471ad65-f323-4712-a625-c21e5075aba7,wenatchee.it,available,6.59,5.44,medium,low,9,dynadot,,,02/10/2026 01:11
 25ed44c6-8b9f-49cf-8d89-4b0aba6340d7,colfax.it,available,6.65,5.49,medium,low,6,dynadot,,,30/09/2026 13:56
 0e4aae5a-299d-46bf-9bae-2ffa9ad2df5b,commensal.it,available,25.99,25.99,medium,low,9,name.com,,,12/08/2026 19:08
-c4947107-55cf-4c65-8fe3-cfd186efca5e,symbolical.it,available,25.99,25.99,high,low,10,name.com,,,16/08/2026 09:33
-458164dc-54b2-4de0-a002-0661aaed845b,jaunty.it,available,25.99,25.99,high,low,6,name.com,,,12/08/2026 06:01
-6fdadf3f-5acc-4b87-843a-87649ef28375,harley.it,resell,,,high,low,6,,01/09/2011 21:34,31/08/2027 00:00,25/09/2026 12:17
-5634e490-62a4-4456-9de5-9e1187fed175,weighty.it,available,25.99,25.99,medium,low,7,name.com,,,12/08/2026 15:37
-f4ee71e4-32d6-4a2c-a5e3-83c0f53d3689,longboard.it,resell,,,high,high,9,,26/09/2026 16:00,26/09/2027 00:00,27/09/2026 04:30
-1c15504c-9f34-4e07-981a-2e48e07d35f6,vistula.it,available,6.65,5.49,medium,low,7,dynadot,,,30/09/2026 19:05
-92a0c3e7-2962-4d8b-b8c3-4d8ce19c5921,conspicuous.it,available,6.66,5.5,medium,low,11,dynadot,,,29/09/2026 03:02
-e843d8e7-09fa-40aa-9b41-e4cc21cf6152,forgery.it,available,25.99,25.99,medium,low,7,name.com,,,13/08/2026 03:36
-831e4be8-b30f-4f29-be0a-3c2ca21cf60a,spurious.it,available,25.99,25.99,medium,low,8,name.com,,,09/08/2026 00:03
-25396a04-c358-4d61-a165-749a712ac796,obeisance.it,available,25.99,25.99,high,medium,9,name.com,,,10/08/2026 23:35
-0c9e4d60-b2fd-4e80-9b98-4f78ce061c55,lxiii.it,available,25.99,25.99,medium,low,5,name.com,,,
-f2a4e081-ceb6-44ce-b2a1-f15bb0e4d1c7,clinquant.it,available,25.99,25.99,medium,low,9,name.com,,,12/08/2026 11:08
-e1fcb06c-34d2-42ff-bee6-f3a0237eb5a9,destined.it,premium,25.99,25.99,high,low,8,name.com,,,
-8f47e073-aee0-43a2-945d-1fb5388a69fc,bombproof.it,available,25.99,25.99,medium,low,9,name.com,,,10/08/2026 18:09
-14c41412-bae5-4723-beda-7996d5728115,antibody.it,resell,,,high,low,8,,04/02/2026 09:29,04/02/2027 00:00,26/09/2026 03:54
-c65b4652-91f4-48f7-937b-ffd94b914c2e,whirl.it,resell,,,high,high,5,,23/08/2022 16:00,23/08/2027 00:00,26/09/2026 10:08
-757db57a-ea05-42e1-8ddc-fbe6ce93768d,ariled.it,available,25.99,25.99,medium,low,6,name.com,,,06/08/2026 19:09
-a09d68ea-5815-46e5-aec6-602043a9aae8,legless.it,available,25.99,25.99,medium,low,7,name.com,,,22/08/2026 23:13
-d270429c-6d56-43e0-97ca-6b2067072133,ruthful.it,available,25.99,25.99,medium,low,7,name.com,,,12/08/2026 23:40
-d867c0c2-b95e-4fbe-898a-6bb1d1be4ead,categorical.it,available,25.99,,medium,low,11,name.com,,,
-4966bd9b-dce6-4b76-b873-36e75bc3b343,adaptative.it,premium,25.99,,high,low,10,name.com,,,
-353eb9cb-873e-48fc-863d-72d2c515a5e9,clubland.it,resell,,,high,high,8,,23/03/2010 21:48,11/04/2026 00:00,
-3c4bb34c-80d1-4379-9ca9-05eca73b5a31,lastly.it,available,6.67,5.51,medium,low,6,dynadot,,,28/09/2026 15:27
-f9e66e9f-a33c-48ea-ac89-c779d646ea09,citrin.it,available,25.99,25.99,medium,low,6,name.com,,,23/09/2026 18:00
-03246df2-749c-4cec-bc71-f94271f22dca,essay.it,resell,,,high,low,5,,29/03/2007 11:33,23/12/2026 00:00,26/09/2026 05:53
-509c5f0f-7d3a-4d48-9086-7eba80b1d742,wilkesbarre.it,available,6.65,5.49,medium,low,12,dynadot,,,30/09/2026 22:09
-15dcd223-43b4-49d9-ab1a-26e1c91a5162,indic.it,resell,,,medium,low,5,,21/06/2018 21:38,21/06/2027 00:00,26/09/2026 06:50
-d44ed11e-b9b6-4557-b662-af70f598b624,exocentric.it,available,25.99,25.99,medium,low,10,name.com,,,17/08/2026 17:21
-7f3ad6d3-cf70-43e6-af35-b0172fca08e6,operationally.it,available,6.66,5.5,medium,low,13,dynadot,,,29/09/2026 17:55
-0b4f4dc0-1817-4511-ab7c-6176691885e4,unholy.it,available,25.99,25.99,medium,low,6,name.com,,,14/08/2026 01:33
-712d6625-1397-47dd-96a0-5d3e30cc69be,pureblood.it,available,25.99,25.99,high,low,9,name.com,,,08/09/2026 13:00
-71852a95-a416-4a9a-8abc-33c8d319e047,surprisingly.it,available,25.99,,high,low,12,name.com,,,
-c17bf4b7-2173-447c-8f9a-4bb38bc83bed,wakes.it,available,6.67,5.51,medium,low,5,dynadot,,,28/09/2026 13:11
-3ae85177-dd2f-4744-bcd1-e01b8f0de5d8,demanding.it,available,25.99,25.99,medium,low,9,name.com,,,14/08/2026 01:06
-556f1594-3c7b-4a52-b355-c15083e12a1e,haverhill.it,available,6.65,5.49,medium,low,9,dynadot,,,30/09/2026 05:35
-d248b1a6-0a0e-4cc1-8542-23501ad19292,thrace.it,available,6.67,5.51,medium,low,6,dynadot,,,28/09/2026 20:38
-552bb272-450f-485f-a280-9efdd7f34177,piraeus.it,available,6.65,5.49,medium,low,7,dynadot,,,30/09/2026 20:50
-02eefbee-5b9a-49a5-abeb-45a0f8fd93bf,debit.it,resell,,,high,high,5,,20/01/2000 00:00,25/01/2027 00:00,26/09/2026 05:27
-8805abdf-2ffc-4ad3-89bd-17e698f955bc,usability.it,resell,,,high,low,9,,,,01/10/2026 03:39
-961ed518-8516-49bc-9939-b89daa3c8acd,rayleigh.it,available,6.66,5.5,medium,low,8,dynadot,,,29/09/2026 13:13
-37d42ecb-8028-4380-9575-16517daf6846,inmost.it,available,25.99,25.99,medium,low,6,name.com,,,22/08/2026 05:51
-9b7c25ae-7ac4-4bbf-ba49-bba59a5f0944,gimcrack.it,available,25.99,25.99,medium,low,8,name.com,,,18/08/2026 06:39
-2682da3b-188f-4dec-ba07-835f505da112,companion.it,resell,,,high,low,9,,20/02/2016 09:00,28/02/2027 00:00,26/09/2026 05:09
-7df27c47-8bec-4be2-8199-7f2c278bf27b,kildare.it,available,6.66,5.5,medium,low,7,dynadot,,,29/09/2026 09:36
-fe4b0bfb-1f20-4813-94cc-f1dbf19fac4f,stationary.it,available,25.99,25.99,high,low,10,name.com,,,10/09/2026 19:12
-db3dba3c-0e55-4722-bdfd-afe1deccee5e,spinous.it,available,25.99,25.99,medium,low,7,name.com,,,
-03661a52-d068-4265-b761-5c6c59acc9f5,brusque.it,available,25.99,25.99,medium,low,7,name.com,,,11/08/2026 07:02
-1e94ab0f-83eb-46f2-b579-334fa966d76d,ruth.it,resell,,,high,low,4,,28/04/2025 09:00,28/04/2027 00:00,26/09/2026 08:47
-37e5dad3-bbce-42db-9092-0f98abc061a0,doable.it,resell,,,high,low,6,,30/08/2015 16:00,30/08/2027 00:00,26/09/2026 05:37
-217e5f9a-c709-488b-b493-16061b546d44,ricefield.it,available,25.99,,high,low,10,name.com,,,
-219b97bc-d617-4aa3-8f20-a873b1d3d16f,agog.it,available,25.99,25.99,medium,low,4,name.com,,,
-2c563fd1-6f9c-4b25-88aa-4ee09178a2e9,innocuous.it,available,25.99,25.99,high,low,9,name.com,,,22/08/2026 05:56
-7ce76cf2-ce38-4449-a42a-7cb03d6a053e,devour.it,resell,,,high,low,6,,12/12/2024 05:17,12/12/2026 00:00,30/09/2026 17:52
-81ffec03-0136-45f6-9c07-f37186b17521,cxxxv.it,available,25.99,25.99,medium,low,5,name.com,,,
-7f3e5af4-e696-4297-9434-7c372b5db7e0,saar.it,resell,,,high,low,4,,12/03/2026 09:00,12/03/2027 00:00,30/09/2026 05:11
-7af600a9-c5de-4ac2-8cf3-86aeeb320834,reverence.it,available,6.65,5.49,high,low,9,dynadot,,,30/09/2026 18:29
-245c8213-3eba-4123-8c89-9f6fae25ce54,levantine.it,available,25.99,25.99,high,low,9,name.com,,,23/08/2026 00:31
-f96f5e30-268e-4e62-9858-90458c813bb6,aroma.it,resell,,,high,low,5,,23/02/2000 00:00,04/09/2025 00:00,
-47585608-241f-4717-982c-9e465cbc57ca,heartthrob.it,available,25.99,,high,low,10,name.com,,,
-bfb6ac41-c504-494a-9eb4-1c5f37733b47,landslide.it,available,14.99,14.99,medium,low,9,godaddy,,,30/09/2026 02:07
-b2e9be11-c956-410e-8da4-770121f32551,nefarious.it,available,25.99,25.99,medium,low,9,name.com,,,03/09/2026 14:57
-0ed9f758-7b79-4b84-aacb-ca1682426b76,laughable.it,premium,25.99,,high,low,9,name.com,,,
-bf4cdf3d-fd2f-4d96-add1-2a7ea3865b73,excuses.it,available,6.67,5.51,medium,low,7,dynadot,,,28/09/2026 23:11
-7c9ae9f4-359f-41fb-9d88-f018dc6fbbec,pugnacious.it,available,25.99,25.99,medium,low,10,name.com,,,21/08/2026 00:21
-ae659d28-3dfd-470e-8560-7e146aa934ee,scarey.it,available,25.99,25.99,medium,low,6,name.com,,,12/08/2026 05:21
-4e4fb720-dec0-4a59-8a2c-dae59fb98633,abdicable.it,available,25.99,25.99,medium,low,9,name.com,,,
-c64aa62e-c7d1-474c-90d9-e1727f8f0b9a,bleach.it,resell,,,high,low,6,,01/08/2026 16:00,01/08/2027 00:00,26/09/2026 04:29
-f80e4feb-c97b-4e84-b1db-ad175b168fc6,conyers.it,available,6.65,5.49,medium,low,7,dynadot,,,30/09/2026 14:02
